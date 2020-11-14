@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: aa42cb65497141a4080344cd0ef6335a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2902201093252639006
+    second: SMW Backgrounds_0
+  - first:
+      213: 9152483207102068828
+    second: SMW Backgrounds_1
+  - first:
+      213: 515143243861679931
+    second: SMW Backgrounds_2
+  - first:
+      213: 3654528835028208722
+    second: SMW Backgrounds_3
+  - first:
+      213: -1135999452518360957
+    second: SMW Backgrounds_4
+  - first:
+      213: -2787476754901790563
+    second: SMW Backgrounds_5
+  - first:
+      213: -7179779539545613933
+    second: SMW Backgrounds_6
+  - first:
+      213: 2971805926426474492
+    second: SMW Backgrounds_7
+  - first:
+      213: -7831889541315883348
+    second: SMW Backgrounds_8
+  - first:
+      213: 3847623436511407263
+    second: SMW Backgrounds_9
+  - first:
+      213: 4987811743821625009
+    second: SMW Backgrounds_10
+  - first:
+      213: -8459634065734694279
+    second: SMW Backgrounds_11
+  - first:
+      213: -2667139279105600372
+    second: SMW Backgrounds_12
+  - first:
+      213: 1337792981454829548
+    second: SMW Backgrounds_13
+  - first:
+      213: 566140716978271378
+    second: SMW Backgrounds_14
+  - first:
+      213: 5013921527805892801
+    second: SMW Backgrounds_15
+  - first:
+      213: 5135594371050269233
+    second: SMW Backgrounds_16
+  - first:
+      213: -4744190941543072929
+    second: SMW Backgrounds_17
+  - first:
+      213: 6172070139913031074
+    second: SMW Backgrounds_18
+  - first:
+      213: -9045929263237981835
+    second: SMW Backgrounds_19
+  - first:
+      213: -6667866831120147197
+    second: SMW Backgrounds_20
+  - first:
+      213: 5521183936944487562
+    second: SMW Backgrounds_21
+  - first:
+      213: 7932898585565100356
+    second: SMW Backgrounds_22
+  - first:
+      213: -1866676179922759772
+    second: SMW Backgrounds_23
+  - first:
+      213: 2084339015261702477
+    second: SMW Backgrounds_24
+  - first:
+      213: -344493690462360253
+    second: SMW Backgrounds_25
+  - first:
+      213: -3389598845910327575
+    second: SMW Backgrounds_26
+  - first:
+      213: 1186466476760931078
+    second: SMW Backgrounds_27
+  - first:
+      213: -1592194585464054926
+    second: SMW Backgrounds_28
+  - first:
+      213: -697513373536145676
+    second: SMW Backgrounds_29
+  - first:
+      213: -2829204352518367822
+    second: SMW Backgrounds_30
+  - first:
+      213: -3782553651017775506
+    second: SMW Backgrounds_31
+  - first:
+      213: -806147582404849978
+    second: SMW Backgrounds_32
+  - first:
+      213: 5523946637654298447
+    second: SMW Backgrounds_33
+  - first:
+      213: -565909249947283929
+    second: SMW Backgrounds_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMW Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2665.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15d589443081fe4889070040cfbb380
+      internalID: 2902201093252639006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2665.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4716af5dfc56146448db4b47f454a01e
+      internalID: 9152483207102068828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2665.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9666c83b9042114190eecadcc3aa414
+      internalID: 515143243861679931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2678
+        width: 516
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5895234bd6ce55740a42574f1a5ccda7
+      internalID: 3654528835028208722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2672
+        width: 516
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57653c20be701ea43a4581395f477d80
+      internalID: -1135999452518360957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2221.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ec009a83975d44d94c879258858d38
+      internalID: -2787476754901790563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2221.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6bd01ccdd13414d8dad5c88016f0ad
+      internalID: -7179779539545613933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2221.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f15a8ef17e7fe147bd663b2fb5d6e8c
+      internalID: 2971805926426474492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2221.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207084cebe651e64e9f3ac16de60e599
+      internalID: -7831889541315883348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2221.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6c4604d0584d644b71d5d80e88cf1b
+      internalID: 3847623436511407263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1777.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43444d9cd6b9ff94b921bf3be912e4b2
+      internalID: 4987811743821625009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1777.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c4dc6e007e0042a4a8fbc85d3baef
+      internalID: -8459634065734694279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1777.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb19dd33a558184793012b8507c2109
+      internalID: -2667139279105600372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1777.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dbf0377b4cff04dbfdb64160babca3
+      internalID: 1337792981454829548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1777.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bb97676e79a1e4888dcf9c650188af
+      internalID: 566140716978271378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1333.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a8aa198768f94aa22a1161e691026
+      internalID: 5013921527805892801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1333.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360012ed6a739ad449d083d6968c5ac6
+      internalID: 5135594371050269233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1333.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c0d5c5444081a4fa1c7c27f74f15a7
+      internalID: -4744190941543072929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1333.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec9532fc40270b48a8a0feba04d073d
+      internalID: 6172070139913031074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1333.7144
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e353a3911881ea84eb8180338a15744e
+      internalID: -9045929263237981835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354cd38bab4980e44bbf87c16b7de218
+      internalID: -6667866831120147197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 889.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f283608d2f40e4887bc6de04840300
+      internalID: 5521183936944487562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_22
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 889.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3785d853dc88b4f9e16949be82e561
+      internalID: 7932898585565100356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_23
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 889.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc413eef02716e54d9f1affa8b84927a
+      internalID: -1866676179922759772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_24
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 889.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e768951e764cc5448bc5195ffa6a7c61
+      internalID: 2084339015261702477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f910bda3682abff45acbf491dc73e4c1
+      internalID: -344493690462360253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 445.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b1b3d515c3a5458604bc7a3ad6f5e
+      internalID: -3389598845910327575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_27
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 445.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73634ed44134746bf47dcb1f001025
+      internalID: 1186466476760931078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_28
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 445.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa61a6bfcc6a59429150985ba1d5824
+      internalID: -1592194585464054926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_29
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 445.7143
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840f7ea0c5e5dc34bb16db03c3b85340
+      internalID: -697513373536145676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7142944
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72475a194bf06443a283da5bae5435e
+      internalID: -2829204352518367822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1.7142944
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2bd76100a357489b4f51d494d7502
+      internalID: -3782553651017775506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_32
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1.7142944
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9fa856079b3c449e965e257860ae1
+      internalID: -806147582404849978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_33
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1.7142944
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c4fb8f73777b44998fae8059c370d
+      internalID: 5523946637654298447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Backgrounds_34
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1.7142944
+        width: 515.6
+        height: 444.2857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845c7fa210c2ed548b216f4fd3e130d7
+      internalID: -565909249947283929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

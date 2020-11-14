@@ -1,0 +1,3703 @@
+fileFormatVersion: 2
+guid: 579c7456d66ed624a8124ce57f1a32d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1205171446542050799
+    second: SMW Bushes_0
+  - first:
+      213: 3913815138970263825
+    second: SMW Bushes_1
+  - first:
+      213: 2611372863008237544
+    second: SMW Bushes_2
+  - first:
+      213: -7828330504284630801
+    second: SMW Bushes_3
+  - first:
+      213: 7962200763270633670
+    second: SMW Bushes_4
+  - first:
+      213: 5305172871863118225
+    second: SMW Bushes_5
+  - first:
+      213: 2067521302683482972
+    second: SMW Bushes_6
+  - first:
+      213: -8004645732354606793
+    second: SMW Bushes_7
+  - first:
+      213: 2457606231703972231
+    second: SMW Bushes_8
+  - first:
+      213: -5948071395045005259
+    second: SMW Bushes_9
+  - first:
+      213: -1977581607445478343
+    second: SMW Bushes_10
+  - first:
+      213: 6244426699331301174
+    second: SMW Bushes_11
+  - first:
+      213: 8708056786939136447
+    second: SMW Bushes_12
+  - first:
+      213: 6636037192005035850
+    second: SMW Bushes_13
+  - first:
+      213: -4660600668475139891
+    second: SMW Bushes_14
+  - first:
+      213: 4854269988810789331
+    second: SMW Bushes_15
+  - first:
+      213: -164578579289834021
+    second: SMW Bushes_16
+  - first:
+      213: -2749574672023909339
+    second: SMW Bushes_17
+  - first:
+      213: -9112226949885903996
+    second: SMW Bushes_18
+  - first:
+      213: -869960358167938385
+    second: SMW Bushes_19
+  - first:
+      213: -7726208517811890183
+    second: SMW Bushes_20
+  - first:
+      213: 796479390317269215
+    second: SMW Bushes_21
+  - first:
+      213: 3999020601623617162
+    second: SMW Bushes_22
+  - first:
+      213: 5531465257853997946
+    second: SMW Bushes_23
+  - first:
+      213: -2127394028691335986
+    second: SMW Bushes_24
+  - first:
+      213: 6668531165398701612
+    second: SMW Bushes_25
+  - first:
+      213: -3814038384072055602
+    second: SMW Bushes_26
+  - first:
+      213: 9042066932512675927
+    second: SMW Bushes_27
+  - first:
+      213: -5868821183978132257
+    second: SMW Bushes_28
+  - first:
+      213: -3162881135635844293
+    second: SMW Bushes_29
+  - first:
+      213: 3669796431282795974
+    second: SMW Bushes_30
+  - first:
+      213: -2448621287150411136
+    second: SMW Bushes_31
+  - first:
+      213: 2916960215823138136
+    second: SMW Bushes_32
+  - first:
+      213: 8878059839635846401
+    second: SMW Bushes_33
+  - first:
+      213: -4673937870229995627
+    second: SMW Bushes_34
+  - first:
+      213: 1318655342704901660
+    second: SMW Bushes_35
+  - first:
+      213: 7635363333892708099
+    second: SMW Bushes_36
+  - first:
+      213: 5200848667280577633
+    second: SMW Bushes_37
+  - first:
+      213: -4564903798101832467
+    second: SMW Bushes_38
+  - first:
+      213: 2206646016302222957
+    second: SMW Bushes_39
+  - first:
+      213: 3874418997441282617
+    second: SMW Bushes_40
+  - first:
+      213: 8110114073185052435
+    second: SMW Bushes_41
+  - first:
+      213: -6065677611012938908
+    second: SMW Bushes_42
+  - first:
+      213: 8511696088193943671
+    second: SMW Bushes_43
+  - first:
+      213: -2798768621135148435
+    second: SMW Bushes_44
+  - first:
+      213: 1593784619911481258
+    second: SMW Bushes_45
+  - first:
+      213: -8236273327729262789
+    second: SMW Bushes_46
+  - first:
+      213: 24387526592778184
+    second: SMW Bushes_47
+  - first:
+      213: 7971559529776732903
+    second: SMW Bushes_48
+  - first:
+      213: 8150113043838168801
+    second: SMW Bushes_49
+  - first:
+      213: -1933283362574142875
+    second: SMW Bushes_50
+  - first:
+      213: 3907096645740358192
+    second: SMW Bushes_51
+  - first:
+      213: 5926551366143286234
+    second: SMW Bushes_52
+  - first:
+      213: -5576186132057594804
+    second: SMW Bushes_53
+  - first:
+      213: 2513420395325818683
+    second: SMW Bushes_54
+  - first:
+      213: -3872559074398947156
+    second: SMW Bushes_55
+  - first:
+      213: 7503241464130449103
+    second: SMW Bushes_56
+  - first:
+      213: -5299951257789229513
+    second: SMW Bushes_57
+  - first:
+      213: -6096737967417789986
+    second: SMW Bushes_58
+  - first:
+      213: 4737448119848268052
+    second: SMW Bushes_59
+  - first:
+      213: 734662816115110255
+    second: SMW Bushes_60
+  - first:
+      213: 6921850671596806082
+    second: SMW Bushes_61
+  - first:
+      213: 786500061388796169
+    second: SMW Bushes_62
+  - first:
+      213: -6726181515586306453
+    second: SMW Bushes_63
+  - first:
+      213: 6718599552492492312
+    second: SMW Bushes_64
+  - first:
+      213: 339427334808380177
+    second: SMW Bushes_65
+  - first:
+      213: -6345482941091845824
+    second: SMW Bushes_66
+  - first:
+      213: 1968934611196705817
+    second: SMW Bushes_67
+  - first:
+      213: 1666285312723209131
+    second: SMW Bushes_68
+  - first:
+      213: -111435644515999158
+    second: SMW Bushes_69
+  - first:
+      213: 1536334961997267220
+    second: SMW Bushes_70
+  - first:
+      213: 4531022039006980599
+    second: SMW Bushes_71
+  - first:
+      213: -6012859672326248848
+    second: SMW Bushes_72
+  - first:
+      213: 986556149287909713
+    second: SMW Bushes_73
+  - first:
+      213: 451879870370603190
+    second: SMW Bushes_74
+  - first:
+      213: -606580218498846831
+    second: SMW Bushes_75
+  - first:
+      213: -1084706738106681799
+    second: SMW Bushes_76
+  - first:
+      213: 3960812499540908566
+    second: SMW Bushes_77
+  - first:
+      213: -5646460680670001321
+    second: SMW Bushes_78
+  - first:
+      213: 4830855296079485685
+    second: SMW Bushes_79
+  - first:
+      213: 8838060306871832881
+    second: SMW Bushes_80
+  - first:
+      213: -1322956531772692596
+    second: SMW Bushes_81
+  - first:
+      213: 7988863379261460828
+    second: SMW Bushes_82
+  - first:
+      213: -148403544652731219
+    second: SMW Bushes_83
+  - first:
+      213: 1961018477026323223
+    second: SMW Bushes_84
+  - first:
+      213: 8787490048209255708
+    second: SMW Bushes_85
+  - first:
+      213: 5415778524538648397
+    second: SMW Bushes_86
+  - first:
+      213: -4913977547702292446
+    second: SMW Bushes_87
+  - first:
+      213: 5016423157519000157
+    second: SMW Bushes_88
+  - first:
+      213: -6354101843353340899
+    second: SMW Bushes_89
+  - first:
+      213: 6825196941045691403
+    second: SMW Bushes_90
+  - first:
+      213: 5372727877114868627
+    second: SMW Bushes_91
+  - first:
+      213: 3349158547735237115
+    second: SMW Bushes_92
+  - first:
+      213: -3227465929198515621
+    second: SMW Bushes_93
+  - first:
+      213: -2749673324819108706
+    second: SMW Bushes_94
+  - first:
+      213: 2579612700146280045
+    second: SMW Bushes_95
+  - first:
+      213: -3949481567045508783
+    second: SMW Bushes_96
+  - first:
+      213: 8433809059863889728
+    second: SMW Bushes_97
+  - first:
+      213: 1308172247085496592
+    second: SMW Bushes_98
+  - first:
+      213: 8975440534874820242
+    second: SMW Bushes_99
+  - first:
+      213: 1980045940309174095
+    second: SMW Bushes_100
+  - first:
+      213: -742626276886576353
+    second: SMW Bushes_101
+  - first:
+      213: -1207414465176432250
+    second: SMW Bushes_102
+  - first:
+      213: 6659116562192845019
+    second: SMW Bushes_103
+  - first:
+      213: -7178105022315655061
+    second: SMW Bushes_104
+  - first:
+      213: -7118929787546114361
+    second: SMW Bushes_105
+  - first:
+      213: -752420125197712859
+    second: SMW Bushes_106
+  - first:
+      213: -3892821605521362473
+    second: SMW Bushes_107
+  - first:
+      213: -6496842211428895544
+    second: SMW Bushes_108
+  - first:
+      213: -715308459512222435
+    second: SMW Bushes_109
+  - first:
+      213: 333643315682617875
+    second: SMW Bushes_110
+  - first:
+      213: 8736772478851697812
+    second: SMW Bushes_111
+  - first:
+      213: -2617803448003115507
+    second: SMW Bushes_112
+  - first:
+      213: 7061334807522260080
+    second: SMW Bushes_113
+  - first:
+      213: -5629831716709934916
+    second: SMW Bushes_114
+  - first:
+      213: 7744319986642027870
+    second: SMW Bushes_115
+  - first:
+      213: 4412890170303054058
+    second: SMW Bushes_116
+  - first:
+      213: -1613616084150463596
+    second: SMW Bushes_117
+  - first:
+      213: -6172932828139423513
+    second: SMW Bushes_118
+  - first:
+      213: 6488423960168760653
+    second: SMW Bushes_119
+  - first:
+      213: 9098993036721890709
+    second: SMW Bushes_120
+  - first:
+      213: 4656672536227579043
+    second: SMW Bushes_121
+  - first:
+      213: -3623102416621607397
+    second: SMW Bushes_122
+  - first:
+      213: 6511701915008034414
+    second: SMW Bushes_123
+  - first:
+      213: -867479636391885225
+    second: SMW Bushes_124
+  - first:
+      213: 6159869405751449266
+    second: SMW Bushes_125
+  - first:
+      213: 4594113636166669783
+    second: SMW Bushes_126
+  - first:
+      213: 3949489657568689005
+    second: SMW Bushes_127
+  - first:
+      213: 8168804404806856470
+    second: SMW Bushes_128
+  - first:
+      213: -3930229285619124452
+    second: SMW Bushes_129
+  - first:
+      213: 4264070358737756948
+    second: SMW Bushes_130
+  - first:
+      213: -9147456416380963605
+    second: SMW Bushes_131
+  - first:
+      213: 1312249780717533274
+    second: SMW Bushes_132
+  - first:
+      213: 450799308736154950
+    second: SMW Bushes_133
+  - first:
+      213: -6909876613813495801
+    second: SMW Bushes_134
+  - first:
+      213: -4857521780263093427
+    second: SMW Bushes_135
+  - first:
+      213: 1887764299253082818
+    second: SMW Bushes_136
+  - first:
+      213: -4230447112818603930
+    second: SMW Bushes_137
+  - first:
+      213: 6217151121893267061
+    second: SMW Bushes_138
+  - first:
+      213: 5133602785857636688
+    second: SMW Bushes_139
+  - first:
+      213: -1095925608895533899
+    second: SMW Bushes_140
+  - first:
+      213: 4573652895126112303
+    second: SMW Bushes_141
+  - first:
+      213: -7226971042181740414
+    second: SMW Bushes_142
+  - first:
+      213: -6393769077992795971
+    second: SMW Bushes_143
+  - first:
+      213: 7396043183457974755
+    second: SMW Bushes_144
+  - first:
+      213: 5220543502679019318
+    second: SMW Bushes_145
+  - first:
+      213: 6771083027647193005
+    second: SMW Bushes_146
+  - first:
+      213: 9123118012403243321
+    second: SMW Bushes_147
+  - first:
+      213: -8839924843906556958
+    second: SMW Bushes_148
+  - first:
+      213: -3305700434692834779
+    second: SMW Bushes_149
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMW Bushes_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a498eaaec8c04aa045e5a3056377d
+      internalID: 1205171446542050799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142dac122312ae34c9044903952db92f
+      internalID: 3913815138970263825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aba8bfd4ee8e0648a5d481eee8040ed
+      internalID: 2611372863008237544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d450f93f9aff4c90504e659b80ab5
+      internalID: -7828330504284630801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b807a2dae29384d96ab68e0984e6e2
+      internalID: 7962200763270633670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1147cdce2df85d458cbed149e823525
+      internalID: 5305172871863118225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d6fda51f4a4e4087f670bdd8d6eb8
+      internalID: 2067521302683482972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a43c161a3000847aca102e02801a15
+      internalID: -8004645732354606793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 381
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac037ebb9dbfe74aa803576dcc36b0b
+      internalID: 2457606231703972231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1657b94184de54da75212788a04a02
+      internalID: -5948071395045005259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9693134a95f140e4aa62046ea50c8828
+      internalID: -1977581607445478343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d2cae673a872499cf73b931a15aaf
+      internalID: 6244426699331301174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029644af6cdf47d479a25829ed7c4407
+      internalID: 8708056786939136447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 383
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63e7192083cc342bdd21c7a643ed54
+      internalID: 6636037192005035850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 400
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4024cb6147dd24c9076180186b9eda
+      internalID: -4660600668475139891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 383
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e48c86dc56594d84a12a6da02b5eb
+      internalID: 4854269988810789331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 388
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46d1cdf1eea4684185c4d1d1e955365
+      internalID: -164578579289834021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 396
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c203b67bc00cbb5408b6be7df5dd9082
+      internalID: -2749574672023909339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 383
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aaf9c74707d26429a83c21b541fbd5
+      internalID: -9112226949885903996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 383
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a053ac1bcdfc0498230ce5c66e9086
+      internalID: -869960358167938385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 383
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22804afa92f2492429466ff012e7416a
+      internalID: -7726208517811890183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 383
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec54dfc072a486a4785c2634b1d94ceb
+      internalID: 796479390317269215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9945fe1a34be54ea4876d68a78d162
+      internalID: 3999020601623617162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c6728d77551848aff6e7332bd7c03
+      internalID: 5531465257853997946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d501bfd53df5934792a5328ba61fe11
+      internalID: -2127394028691335986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d88ff1646c5245aa8917a8bac533a
+      internalID: 6668531165398701612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e6d9b7d91c2c4aa1575544e81d3f0
+      internalID: -3814038384072055602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 383
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359ac3d6fdc88e4f9c8a7180be326a3
+      internalID: 9042066932512675927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72233aba2657a6e40aac0f6d52460efc
+      internalID: -5868821183978132257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e77650fed5d8c42b9aeedffcb7daaf
+      internalID: -3162881135635844293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd5798755bed0408e1028ea74e7177
+      internalID: 3669796431282795974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843617bf40765c241a09a1e03d178a4a
+      internalID: -2448621287150411136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11584aba54468fc43a1aa68bbe5226cc
+      internalID: 2916960215823138136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ad6b553e19dc4ebba5cb8247af69b
+      internalID: 8878059839635846401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3611e55cef3ab7d4580a711dfc9f911c
+      internalID: -4673937870229995627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3d32d62e9c934995d5f8cbea784c8
+      internalID: 1318655342704901660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7b342060eb96940ae01b86d639ba46
+      internalID: 7635363333892708099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 362
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043ba1e470bfb54fac35e0b179c0cb8
+      internalID: 5200848667280577633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 362
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae9be5a159a45247b8c8434b5ae0dd6
+      internalID: -4564903798101832467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f3782b3c123a4fa2f0cca9b9c7e23
+      internalID: 2206646016302222957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05a8fd42a5fdbf4a849bab1fa1cc88c
+      internalID: 3874418997441282617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e149ce5c58e948862dd256f1016b4
+      internalID: 8110114073185052435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435c6f2cad54fb34d863231983a5b6e9
+      internalID: -6065677611012938908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_43
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 339
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3998dee88407df643b7ed37db9d23c9f
+      internalID: 8511696088193943671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 355
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f690201efe66e43951a24d9fe44fc8
+      internalID: -2798768621135148435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 355
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799dbf713b2225640ac287c693494429
+      internalID: 1593784619911481258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 355
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fed4ab929fee84ca1032fa31200285
+      internalID: -8236273327729262789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b50eafbb0656d84e82d7be9b8c2cf1f
+      internalID: 24387526592778184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 345
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe06da9d99d894bad032270f191cd0
+      internalID: 7971559529776732903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_49
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 355
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa7917dc1e3ff40adea01a5c3ed33e
+      internalID: 8150113043838168801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 345
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab5e475797cc3e4a8235e82e83cf1b3
+      internalID: -1933283362574142875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_51
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 345
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8359e2a93a768a4a9ab508937ed59b6
+      internalID: 3907096645740358192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_52
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 345
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a27b646aefa7d84cb0ba16fe9e5a4db
+      internalID: 5926551366143286234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1737618ca9a4445a947e302d22ee46
+      internalID: -5576186132057594804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4f2a6e4d22484a92631687b4405ff
+      internalID: 2513420395325818683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a558c05d09cc74fbb94801677c11e2
+      internalID: -3872559074398947156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_56
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f58620878d3445498e2ee30eefc4699
+      internalID: 7503241464130449103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d0b5caa7558b34ea9fe7519b386513
+      internalID: -5299951257789229513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69392fc4c3f5cdd45ac40aa2d35bcf69
+      internalID: -6096737967417789986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb9da5124234d142a391ecf91763b84
+      internalID: 4737448119848268052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 345
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78488ae9671a06d40892cc4157d45ff0
+      internalID: 734662816115110255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ed344d025dc94d8405237e82163d9
+      internalID: 6921850671596806082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc4a4f72359c849a56af5401e6d2cb
+      internalID: 786500061388796169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_63
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 337
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7803e9a692f917468ddcb074a6c37d1
+      internalID: -6726181515586306453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8cc44f5e777d459ebbd2a5e7a883d
+      internalID: 6718599552492492312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_65
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0701bdb5fd87b545a88e084ca6fe581
+      internalID: 339427334808380177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_66
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3559d72ea7d9f429e0ca37ca49c424
+      internalID: -6345482941091845824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 336
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e06be0176dcac4795da1c173876e20
+      internalID: 1968934611196705817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 233
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d910d89bf74e6e4ca60d9ae9b85cfb0
+      internalID: 1666285312723209131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_69
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 265
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c685c711205f3542ad8f481fd9f064d
+      internalID: -111435644515999158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_70
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29adde7617fbfda4f96e7754e0acc48c
+      internalID: 1536334961997267220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_71
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 265
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f891448f0d4644a930d7b1007972e4
+      internalID: 4531022039006980599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_72
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 297
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd944b350366eef438ce435b604e33e6
+      internalID: -6012859672326248848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_73
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507f46503ca34740859c665225a3b7f
+      internalID: 986556149287909713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_74
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e30c3ab81e4b24cba8b96a6ed5b832
+      internalID: 451879870370603190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_75
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 265
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a035db9f4d5a5948b532a03e4ae3bf8
+      internalID: -606580218498846831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_76
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 265
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d35dd9096647d43971484403aa949c
+      internalID: -1084706738106681799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_77
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281aa3a16b3f6d24aad760493049acaf
+      internalID: 3960812499540908566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_78
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3697425d80f92443b952ac2e7eb4298
+      internalID: -5646460680670001321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544ac3817adc0142b4121ca35a9c7d5
+      internalID: 4830855296079485685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_80
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1a00628c6cd749a0aa56a5b2b3a2d
+      internalID: 8838060306871832881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_81
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f5c5196660484994057978d3a6fd8
+      internalID: -1322956531772692596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_82
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414977cc4fa85543adb4ad5ffa1fbd0
+      internalID: 7988863379261460828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_83
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 232
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087fb1fcaf643f44a38dcb867e6d875
+      internalID: -148403544652731219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_84
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 232
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0b7fd3977cedc40b7ba77c141de96e
+      internalID: 1961018477026323223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_85
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b876a4aadb80419ff3b0c501ef99b
+      internalID: 8787490048209255708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54474b1aa002f03418cc1ab248b2625f
+      internalID: 5415778524538648397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff6d2ea10e9e6498acb2d592920fa6
+      internalID: -4913977547702292446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_88
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f751eebc6de3b094fa8fe035627ee34b
+      internalID: 5016423157519000157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_89
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae3910e828316346b4809185486852a
+      internalID: -6354101843353340899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_90
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26388df0035d93b4caeaf252488f576f
+      internalID: 6825196941045691403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 256
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913fa60eb40da814e83a8dfcff7a5166
+      internalID: 5372727877114868627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf584892a4c3a234cb63d0ab4885cecf
+      internalID: 3349158547735237115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_93
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f0142c58921f4f8aed3e436dce645
+      internalID: -3227465929198515621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_94
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a6560b9eec4f743be0ce846b2d104a
+      internalID: -2749673324819108706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_95
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae54d43dcce33d48896cf53faaa6c8a
+      internalID: 2579612700146280045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_96
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b930fc3aace6004bb67ee358b51770b
+      internalID: -3949481567045508783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_97
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd313186629cd46b6c3d34c2877d47
+      internalID: 8433809059863889728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb9220a03a5914b9317036d073d8db
+      internalID: 1308172247085496592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dbb78aa4ddc3e41a6377d465f54209
+      internalID: 8975440534874820242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16be870af54251147938d68438762afc
+      internalID: 1980045940309174095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b84154fe3de6f942a5a49f491a41d89
+      internalID: -742626276886576353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_102
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a827bbd3a8e74fb08542c9dce0ce3
+      internalID: -1207414465176432250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_103
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879a2ac6b8385c34da130ff3b9b62552
+      internalID: 6659116562192845019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd33c310bce264aadf77916ff53b29
+      internalID: -7178105022315655061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_105
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f54a6857afddc43a4bed50c88875c8
+      internalID: -7118929787546114361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2501cfef0d7a428e9ff0a773a0e80
+      internalID: -752420125197712859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_107
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112f27df91573144b6a03e1880e8b23
+      internalID: -3892821605521362473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_108
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 127
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a9a7c184220cb468e760139b4a22d1
+      internalID: -6496842211428895544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_109
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 127
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc9a60c36b5da498f12210b36875db
+      internalID: -715308459512222435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_110
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713fc15c6c668e442adfea384d4cafb8
+      internalID: 333643315682617875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_111
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079fbfce7726a9499a8bc740c9231e2
+      internalID: 8736772478851697812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_112
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec816b28f0f4dcd4f8ec5459e6386067
+      internalID: -2617803448003115507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346d9b9a2b317f146aba27b41e4dccd8
+      internalID: 7061334807522260080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_114
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7274a44147afc4fb07ded798c89241
+      internalID: -5629831716709934916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_115
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28014ccf607d6cb4fa18c985ccb1dbb3
+      internalID: 7744319986642027870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_116
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 110
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddaade1c96cc9f48b0943344447927b
+      internalID: 4412890170303054058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_117
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be03979ad2e0c640b4d95761da7d1a6
+      internalID: -1613616084150463596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_118
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04f78cf1e9dc94f87cfa4c5a25e6ad
+      internalID: -6172932828139423513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_119
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7898512ef2d39d44591fa5c13a8fce9f
+      internalID: 6488423960168760653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_120
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04fb490f40edbe48b331761795c7164
+      internalID: 9098993036721890709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_121
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756db3f8806dcff4f91856db4b3458d5
+      internalID: 4656672536227579043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_122
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e754deecfd8e4a946de438ccdd84f
+      internalID: -3623102416621607397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3450d4d7fc5741bedcdeebffb7c98
+      internalID: 6511701915008034414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ccb2e14cfca8f4cb11e036e2498469
+      internalID: -867479636391885225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_125
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e629f05e9f36fa242bd92000badcdb75
+      internalID: 6159869405751449266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_126
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141b363730e4a9547be05969e4f28442
+      internalID: 4594113636166669783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_127
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db57c17bf50604aa682a09f50bac93
+      internalID: 3949489657568689005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_128
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 60
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b26682ca68a0849a83c7a26d7f5269
+      internalID: 8168804404806856470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_129
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b647dcb20de448b330a7fcb67acc9
+      internalID: -3930229285619124452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_130
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 47
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc42641a4034db64e8e11502a17d19cf
+      internalID: 4264070358737756948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_131
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6add679530804c74bb953d0b83bd9cce
+      internalID: -9147456416380963605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_132
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56e1febf36292a43a063a2041073819
+      internalID: 1312249780717533274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_133
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152942cc8cf07f84d8e16aaddfd2f266
+      internalID: 450799308736154950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_134
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1773a7583ff92143a63fa448d08de6a
+      internalID: -6909876613813495801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_135
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da39500de6eeee4faa38e92bc32cf9e
+      internalID: -4857521780263093427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_136
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 52
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b11855534f39944b09ba673afa7bea
+      internalID: 1887764299253082818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_137
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e4ccd2f29fb446a5823eac2efcd42
+      internalID: -4230447112818603930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_138
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4dc5de83f8f0f46ade97e35e3ed64a
+      internalID: 6217151121893267061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_139
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a489f03bb4fae2644a07cbc82fc3fedc
+      internalID: 5133602785857636688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8aa977d1130745a3b42f4c591cf8b
+      internalID: -1095925608895533899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_141
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 59
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799eee26f5020742a2fa817ab7dd887
+      internalID: 4573652895126112303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_142
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ba8305aeaef84db33cb1b9d7e6f0d
+      internalID: -7226971042181740414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_143
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 221
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a00b90ff8b9044e8bc271612c5a82a
+      internalID: -6393769077992795971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_144
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526eb58622208284e938e3d66ef3092c
+      internalID: 7396043183457974755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_145
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ad242edcb16014c8b717f73e8e762d
+      internalID: 5220543502679019318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_146
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c6e95bbe0d7c4ba6a3340afc3f9d8
+      internalID: 6771083027647193005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_147
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 8
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf830243b4d8b48a23fa922e2d3c02
+      internalID: 9123118012403243321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_148
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373f4afa80e641c40980ca90a4f2007c
+      internalID: -8839924843906556958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Bushes_149
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6069af5ef5afd7f499023e21e15dd287
+      internalID: -3305700434692834779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

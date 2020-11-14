@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Background
+  - Collectables
+  - Dragon Coin
+  - Coin
+  - Pipes
   layers:
   - Default
   - TransparentFX
@@ -13,10 +19,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Foreground
+  - Background
+  - Collectables
+  - Pipes
   - 
   - 
   - 
@@ -38,6 +44,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Pipes
+    uniqueID: 71595893
+    locked: 0
+  - name: Background
+    uniqueID: 1381870849
+    locked: 0
+  - name: Foreground
+    uniqueID: 4050540553
+    locked: 0
+  - name: Collectables
+    uniqueID: 2128439977
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

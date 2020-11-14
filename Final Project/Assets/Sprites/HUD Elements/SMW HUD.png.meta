@@ -1,0 +1,1234 @@
+fileFormatVersion: 2
+guid: f3770640ebc9b70428bd945cfe2fb4db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 997193825596455394
+    second: SMW HUD_0
+  - first:
+      213: 653325880162395453
+    second: SMW HUD_1
+  - first:
+      213: -4646790037991201714
+    second: SMW HUD_6
+  - first:
+      213: -566754240329283946
+    second: SMW HUD_7
+  - first:
+      213: -1096951161687907879
+    second: SMW HUD_9
+  - first:
+      213: -4014561071774646690
+    second: SMW HUD_10
+  - first:
+      213: -2567335171621756324
+    second: SMW HUD_11
+  - first:
+      213: -3213359585052198129
+    second: SMW HUD_12
+  - first:
+      213: -4237005206877442151
+    second: SMW HUD_13
+  - first:
+      213: -97200781430228989
+    second: SMW HUD_14
+  - first:
+      213: -1056809552302205223
+    second: SMW HUD_15
+  - first:
+      213: -2426060161918111460
+    second: SMW HUD_16
+  - first:
+      213: 4226912188782953024
+    second: SMW HUD_17
+  - first:
+      213: 3011943623960068206
+    second: SMW HUD_18
+  - first:
+      213: -7825103304542450808
+    second: SMW HUD_19
+  - first:
+      213: -6690006148425632720
+    second: SMW HUD_20
+  - first:
+      213: 3303523719400057727
+    second: SMW HUD_21
+  - first:
+      213: -79834306339195036
+    second: SMW HUD_22
+  - first:
+      213: -1394176853462954767
+    second: SMW HUD_26
+  - first:
+      213: 5077600551480105554
+    second: SMW HUD_27
+  - first:
+      213: -819880347231214702
+    second: SMW HUD_28
+  - first:
+      213: -2305678919318897797
+    second: SMW HUD_29
+  - first:
+      213: 3055077625255416698
+    second: SMW HUD_30
+  - first:
+      213: -5598794994828230898
+    second: SMW HUD_31
+  - first:
+      213: -2313938717552047012
+    second: SMW HUD_32
+  - first:
+      213: -3601652889190667151
+    second: SMW HUD_33
+  - first:
+      213: 904135804174450345
+    second: SMW HUD_34
+  - first:
+      213: -6852748803460118157
+    second: SMW HUD_35
+  - first:
+      213: 3961541629865045450
+    second: SMW HUD_73
+  - first:
+      213: -1207600186513459242
+    second: SMW HUD_79
+  - first:
+      213: -1489406178618067058
+    second: SMW HUD_80
+  - first:
+      213: -5807244390298741297
+    second: SMW HUD_81
+  - first:
+      213: 2375753173468759124
+    second: SMW HUD_82
+  - first:
+      213: -4441989043697444912
+    second: SMW HUD_83
+  - first:
+      213: -774380320632355065
+    second: SMW HUD_84
+  - first:
+      213: -4451101019861094568
+    second: SMW HUD_93
+  - first:
+      213: 3465025780306819981
+    second: SMW HUD_94
+  - first:
+      213: -8646931950404856829
+    second: SMW HUD_95
+  - first:
+      213: -3321954300650563615
+    second: SMW HUD_96
+  - first:
+      213: -7405749439114728359
+    second: SMW HUD_102
+  - first:
+      213: -3270645743063660208
+    second: SMW HUD_103
+  - first:
+      213: 6602684955774013086
+    second: SMW HUD_104
+  - first:
+      213: -7426267983721871662
+    second: SMW HUD_105
+  - first:
+      213: 1959847023214580624
+    second: SMW HUD_106
+  - first:
+      213: 7022843005549483792
+    second: SMW HUD_107
+  - first:
+      213: 103800355646014057
+    second: SMW HUD_108
+  - first:
+      213: 6520036708425696821
+    second: SMW HUD_127
+  - first:
+      213: 4386700825817589076
+    second: SMW HUD_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMW HUD_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b37028c06faecf4e8fbb2396b94e7df
+      internalID: 997193825596455394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 217
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de96cbfae6d87c54db40dab18491cdd8
+      internalID: 653325880162395453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 202
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c055240e778846920104fa2c06c27
+      internalID: -4646790037991201714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 202
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ca8866ebc02f4284b7b65028d6958
+      internalID: -566754240329283946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 188
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1be66dc928eaf42b9796af42429a4d
+      internalID: -1096951161687907879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 204
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec8062d935e1134883c29687e97d5ae
+      internalID: -4014561071774646690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 203
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ca65d1e36e86b4f9002627ff85966f
+      internalID: -3213359585052198129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32bc224b272f884480480a1ea58579c
+      internalID: -4237005206877442151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 208
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00366ab64aba1a346ad8fd41633484be
+      internalID: -97200781430228989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b4cf38a32a9194db6a8e1efbc8f33f
+      internalID: -1056809552302205223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8ebf6b6b1d044697b7419d260099c
+      internalID: -2426060161918111460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e988eb7b2c1094d9b0aa1b06fa64e2
+      internalID: 4226912188782953024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3a28c1137f6ce408695710c9d5cc7e
+      internalID: 3011943623960068206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214cf86df8c0a2147b2c7b48c55341af
+      internalID: -7825103304542450808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7f566198bab6f4e9929060c6fefcea
+      internalID: -6690006148425632720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a886c0943ed54fb524dd7eb200a80
+      internalID: 3303523719400057727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 208
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b106da0c151e49afde7d375d75986
+      internalID: -79834306339195036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a49f5aaa4a31c4caba68c56d2f0edc
+      internalID: -1394176853462954767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 199
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd0e7d79c0193d4c98408d4ac9fcb1d
+      internalID: 5077600551480105554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc71ffaed96a1439563971e2bf22be
+      internalID: -819880347231214702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_29
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692565ffb405201498c6b90844ef9c3d
+      internalID: -2305678919318897797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be3176e0c39cac43a64313e3a7cbbf0
+      internalID: 3055077625255416698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad6f8334eaa17348ad9451599401489
+      internalID: -5598794994828230898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669120eab5e0a5949ab3bc2b67b7f7d2
+      internalID: -2313938717552047012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6ac6cf621cf734889fe0e593d69029
+      internalID: -3601652889190667151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7440ad728bbfc7d49ba698482de3a104
+      internalID: 904135804174450345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1796046ecd349442878826adaef7852
+      internalID: -6852748803460118157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_73
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 124
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25584ccd2c0b674592379706b1567c8
+      internalID: 3961541629865045450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 138
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f26664f322564a46aa3d01b2f81dfab
+      internalID: -1207600186513459242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_80
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 138
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4308ba0eb1fc8140b6de55ff216bfd0
+      internalID: -1489406178618067058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_81
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 138
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea746a7f5a19e479f8dc517d69b124
+      internalID: -5807244390298741297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 124
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dd982052b98314f81d91e60907f62c
+      internalID: 2375753173468759124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_83
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 124
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075ea8ddba6eac42ac7596849397fb4
+      internalID: -4441989043697444912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_84
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 124
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcd81078940ed74f81b6b8e29b61e85
+      internalID: -774380320632355065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_93
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 91
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bdbcfb900ee644db0f375205487d36
+      internalID: -4451101019861094568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_94
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 91
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6399fba52a4b6459b426dfbb374e01
+      internalID: 3465025780306819981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_95
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 91
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348ddf498f9af945869e2d23a7aa94a
+      internalID: -8646931950404856829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_96
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 91
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad38a7bc39445384fa0c976237b65b48
+      internalID: -3321954300650563615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_102
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 58
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9b5785abfc9542a43f0b349dba6e8
+      internalID: -7405749439114728359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_103
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 58
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa827668c77ca45b9c44a3b6075067
+      internalID: -3270645743063660208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_104
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 58
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad9cc5e51733a4588429345697abbb
+      internalID: 6602684955774013086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_105
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 58
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbfeff80654354499382b9601b79042
+      internalID: -7426267983721871662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_106
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 47
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1863b6a0e298c4e9ba14e989adaede
+      internalID: 1959847023214580624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_107
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 47
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e45ec33f81845b4cbeeb7f4c4deae5c
+      internalID: 7022843005549483792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_108
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 47
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40639295f7cf547a9779dc9a482968
+      internalID: 103800355646014057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_127
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 3
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f32592fb4e80447b42656a2f85deca
+      internalID: 6520036708425696821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW HUD_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d3b3af91dba440920d2324f5939d6
+      internalID: 4386700825817589076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

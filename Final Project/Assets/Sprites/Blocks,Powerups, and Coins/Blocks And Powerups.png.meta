@@ -1,0 +1,4792 @@
+fileFormatVersion: 2
+guid: 87215744c33d6d84a986b8356d6c3804
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -385067716370558006
+    second: Blocks And Powerups_10
+  - first:
+      213: -4842588887750045835
+    second: Blocks And Powerups_11
+  - first:
+      213: 4285435774430501978
+    second: Blocks And Powerups_12
+  - first:
+      213: 8036996094148009481
+    second: Blocks And Powerups_13
+  - first:
+      213: -2564325780387712419
+    second: Blocks And Powerups_14
+  - first:
+      213: -1806916817411447150
+    second: Blocks And Powerups_15
+  - first:
+      213: 9110857682436139951
+    second: Blocks And Powerups_16
+  - first:
+      213: 4305420128209133993
+    second: Blocks And Powerups_17
+  - first:
+      213: -6367514000389675056
+    second: Blocks And Powerups_18
+  - first:
+      213: -1264777242193022545
+    second: Blocks And Powerups_19
+  - first:
+      213: 5641858949920859009
+    second: Blocks And Powerups_20
+  - first:
+      213: -4728629252435764577
+    second: Blocks And Powerups_21
+  - first:
+      213: 4044289597841708361
+    second: Blocks And Powerups_22
+  - first:
+      213: 2049870690142643153
+    second: Blocks And Powerups_23
+  - first:
+      213: -4587206580810138614
+    second: Blocks And Powerups_24
+  - first:
+      213: -7313763307554329541
+    second: Blocks And Powerups_25
+  - first:
+      213: 6837574843639250773
+    second: Blocks And Powerups_26
+  - first:
+      213: -4004223648478447729
+    second: Blocks And Powerups_27
+  - first:
+      213: -3604978089449994721
+    second: Blocks And Powerups_28
+  - first:
+      213: 6721432382278120795
+    second: Blocks And Powerups_29
+  - first:
+      213: -1107743193140761945
+    second: Blocks And Powerups_30
+  - first:
+      213: -2045711563484952398
+    second: Blocks And Powerups_31
+  - first:
+      213: 6595080864560036329
+    second: Blocks And Powerups_32
+  - first:
+      213: -5002944650406827399
+    second: Blocks And Powerups_33
+  - first:
+      213: 3751737687899727769
+    second: Blocks And Powerups_34
+  - first:
+      213: -443458486216100685
+    second: Blocks And Powerups_35
+  - first:
+      213: 9111071801343087957
+    second: Blocks And Powerups_36
+  - first:
+      213: 5592292275954826480
+    second: Blocks And Powerups_37
+  - first:
+      213: 5895091109310892148
+    second: Blocks And Powerups_38
+  - first:
+      213: -4658875656265736767
+    second: Blocks And Powerups_39
+  - first:
+      213: -2233490253369668376
+    second: Blocks And Powerups_44
+  - first:
+      213: 8224742453579617469
+    second: Blocks And Powerups_45
+  - first:
+      213: -6668773825185673172
+    second: Blocks And Powerups_46
+  - first:
+      213: -5196241698202920029
+    second: Blocks And Powerups_47
+  - first:
+      213: 7905269959238812175
+    second: Blocks And Powerups_48
+  - first:
+      213: 7771431504776938008
+    second: Blocks And Powerups_49
+  - first:
+      213: -4826146542578016361
+    second: Blocks And Powerups_50
+  - first:
+      213: 4300847492416417842
+    second: Blocks And Powerups_51
+  - first:
+      213: -8168649879965658889
+    second: Blocks And Powerups_52
+  - first:
+      213: 5702828036436153729
+    second: Blocks And Powerups_53
+  - first:
+      213: -3395871120723302026
+    second: Blocks And Powerups_54
+  - first:
+      213: 6414552836140404214
+    second: Blocks And Powerups_55
+  - first:
+      213: 4037595166685701136
+    second: Blocks And Powerups_56
+  - first:
+      213: 6650176821216561999
+    second: Blocks And Powerups_57
+  - first:
+      213: -5820708224995219458
+    second: Blocks And Powerups_58
+  - first:
+      213: -4034070313016742871
+    second: Blocks And Powerups_59
+  - first:
+      213: 5397594832087100009
+    second: Blocks And Powerups_60
+  - first:
+      213: -4560786284672815715
+    second: Blocks And Powerups_61
+  - first:
+      213: -3432890939290687455
+    second: Blocks And Powerups_62
+  - first:
+      213: -2224192471605126939
+    second: Blocks And Powerups_63
+  - first:
+      213: -7651668811634029386
+    second: Blocks And Powerups_64
+  - first:
+      213: -7856608688311953299
+    second: Blocks And Powerups_65
+  - first:
+      213: 128059820662215312
+    second: Blocks And Powerups_66
+  - first:
+      213: -949596516232943193
+    second: Blocks And Powerups_67
+  - first:
+      213: 536554609531869546
+    second: Blocks And Powerups_68
+  - first:
+      213: -7999826832313367371
+    second: Blocks And Powerups_69
+  - first:
+      213: 7463786370118748770
+    second: Blocks And Powerups_72
+  - first:
+      213: 1558862336654064850
+    second: Blocks And Powerups_78
+  - first:
+      213: 5750912318883300369
+    second: Blocks And Powerups_80
+  - first:
+      213: -5039951358698969659
+    second: Blocks And Powerups_81
+  - first:
+      213: -6549388102157077925
+    second: Blocks And Powerups_82
+  - first:
+      213: 8754974989375022436
+    second: Blocks And Powerups_83
+  - first:
+      213: 6989432269508575169
+    second: Blocks And Powerups_84
+  - first:
+      213: -2184024840345170694
+    second: Blocks And Powerups_85
+  - first:
+      213: -1485950318009489126
+    second: Blocks And Powerups_86
+  - first:
+      213: -1943400368056149412
+    second: Blocks And Powerups_87
+  - first:
+      213: -8444309078973215968
+    second: Blocks And Powerups_88
+  - first:
+      213: 7127441000219101864
+    second: Blocks And Powerups_89
+  - first:
+      213: 215601082085434166
+    second: Blocks And Powerups_90
+  - first:
+      213: 3484352795177740923
+    second: Blocks And Powerups_91
+  - first:
+      213: 3265625933454410093
+    second: Blocks And Powerups_92
+  - first:
+      213: 5911108097622535635
+    second: Blocks And Powerups_93
+  - first:
+      213: 327937099868943817
+    second: Blocks And Powerups_94
+  - first:
+      213: 421382292831766128
+    second: Blocks And Powerups_95
+  - first:
+      213: 8006398044176787723
+    second: Blocks And Powerups_96
+  - first:
+      213: 8779919512947190573
+    second: Blocks And Powerups_97
+  - first:
+      213: -7614639831205415847
+    second: Blocks And Powerups_98
+  - first:
+      213: 2952965801519346674
+    second: Blocks And Powerups_99
+  - first:
+      213: 1350715717350039954
+    second: Blocks And Powerups_100
+  - first:
+      213: -7182712325902525364
+    second: Blocks And Powerups_101
+  - first:
+      213: 7502319675398364428
+    second: Blocks And Powerups_102
+  - first:
+      213: 6860800802241215998
+    second: Blocks And Powerups_103
+  - first:
+      213: -6407068554518130151
+    second: Blocks And Powerups_104
+  - first:
+      213: 3699323740209990460
+    second: Blocks And Powerups_105
+  - first:
+      213: 434139301515869704
+    second: Blocks And Powerups_106
+  - first:
+      213: -8574759431216025246
+    second: Blocks And Powerups_107
+  - first:
+      213: 1665505147757751238
+    second: Blocks And Powerups_108
+  - first:
+      213: -7590999348291582089
+    second: Blocks And Powerups_109
+  - first:
+      213: -2238267362766190797
+    second: Blocks And Powerups_110
+  - first:
+      213: 7672432851359141924
+    second: Blocks And Powerups_111
+  - first:
+      213: 3789714525218690067
+    second: Blocks And Powerups_112
+  - first:
+      213: -9188616797023410859
+    second: Blocks And Powerups_113
+  - first:
+      213: -2788744267636015389
+    second: Blocks And Powerups_114
+  - first:
+      213: 7700720912517468628
+    second: Blocks And Powerups_115
+  - first:
+      213: -2543193233811798358
+    second: Blocks And Powerups_116
+  - first:
+      213: 6104060359255825329
+    second: Blocks And Powerups_117
+  - first:
+      213: -5647127555859788638
+    second: Blocks And Powerups_118
+  - first:
+      213: 6559720025768682876
+    second: Blocks And Powerups_119
+  - first:
+      213: -5878276718326116053
+    second: Blocks And Powerups_120
+  - first:
+      213: -4927923641161612410
+    second: Blocks And Powerups_121
+  - first:
+      213: -5723675763863217992
+    second: Blocks And Powerups_122
+  - first:
+      213: -7579217555676329739
+    second: Blocks And Powerups_123
+  - first:
+      213: -3304149312593330825
+    second: Blocks And Powerups_129
+  - first:
+      213: -8491464876235592416
+    second: Blocks And Powerups_130
+  - first:
+      213: -3718366574770744512
+    second: Blocks And Powerups_131
+  - first:
+      213: 4704644813502955822
+    second: Blocks And Powerups_132
+  - first:
+      213: -2200036418341059384
+    second: Blocks And Powerups_133
+  - first:
+      213: 2274303855463635023
+    second: Blocks And Powerups_134
+  - first:
+      213: -1166152929356510680
+    second: Blocks And Powerups_135
+  - first:
+      213: 2623661717773830843
+    second: Blocks And Powerups_136
+  - first:
+      213: -505559926243939202
+    second: Blocks And Powerups_137
+  - first:
+      213: -3775537696363121812
+    second: Blocks And Powerups_138
+  - first:
+      213: 7637367473946734258
+    second: Blocks And Powerups_139
+  - first:
+      213: -6985258639775366952
+    second: Blocks And Powerups_140
+  - first:
+      213: 8459063217269556959
+    second: Blocks And Powerups_141
+  - first:
+      213: -2493998828129639062
+    second: Blocks And Powerups_142
+  - first:
+      213: -3988333888033989946
+    second: Blocks And Powerups_143
+  - first:
+      213: -568490823608504807
+    second: Blocks And Powerups_144
+  - first:
+      213: -5429171078871669603
+    second: Blocks And Powerups_145
+  - first:
+      213: 8441604839732114884
+    second: Blocks And Powerups_146
+  - first:
+      213: 894638357357764338
+    second: Blocks And Powerups_147
+  - first:
+      213: -6506508455872534545
+    second: Blocks And Powerups_148
+  - first:
+      213: -559107980233655979
+    second: Blocks And Powerups_149
+  - first:
+      213: -2936872810718157253
+    second: Blocks And Powerups_150
+  - first:
+      213: -1653933002487113260
+    second: Blocks And Powerups_151
+  - first:
+      213: 1952725386835663262
+    second: Blocks And Powerups_152
+  - first:
+      213: 1249794848230857513
+    second: Blocks And Powerups_153
+  - first:
+      213: -7745492548128809100
+    second: Blocks And Powerups_154
+  - first:
+      213: 8441176376330479310
+    second: Blocks And Powerups_155
+  - first:
+      213: 2768304247941965391
+    second: Blocks And Powerups_156
+  - first:
+      213: 2680295501916266494
+    second: Blocks And Powerups_157
+  - first:
+      213: -6588740327484015249
+    second: Blocks And Powerups_158
+  - first:
+      213: 6251989442129103057
+    second: Blocks And Powerups_159
+  - first:
+      213: 453292800279410781
+    second: Blocks And Powerups_160
+  - first:
+      213: -843606363016157789
+    second: Blocks And Powerups_161
+  - first:
+      213: 7871856362930907501
+    second: Blocks And Powerups_162
+  - first:
+      213: 699143632483931647
+    second: Blocks And Powerups_163
+  - first:
+      213: -6747690311938138042
+    second: Blocks And Powerups_164
+  - first:
+      213: -1864144892349169725
+    second: Blocks And Powerups_165
+  - first:
+      213: 8739546198840036121
+    second: Blocks And Powerups_166
+  - first:
+      213: 161187275038554319
+    second: Blocks And Powerups_167
+  - first:
+      213: 4198733442407186314
+    second: Blocks And Powerups_168
+  - first:
+      213: 2515374273614282319
+    second: Blocks And Powerups_169
+  - first:
+      213: 8202857589564472656
+    second: Blocks And Powerups_170
+  - first:
+      213: 6957341748612612770
+    second: Blocks And Powerups_171
+  - first:
+      213: -7373795227985918199
+    second: Blocks And Powerups_172
+  - first:
+      213: 2880002787972868596
+    second: Blocks And Powerups_173
+  - first:
+      213: 3391235836745512825
+    second: Blocks And Powerups_174
+  - first:
+      213: 6645851060422801742
+    second: Blocks And Powerups_175
+  - first:
+      213: -3360735843034894301
+    second: Blocks And Powerups_176
+  - first:
+      213: -9209065134091028586
+    second: Blocks And Powerups_177
+  - first:
+      213: 8538885588468682975
+    second: Blocks And Powerups_178
+  - first:
+      213: -6672395170114293845
+    second: Blocks And Powerups_179
+  - first:
+      213: 7356383246509932432
+    second: Blocks And Powerups_187
+  - first:
+      213: -5418723083986942086
+    second: Blocks And Powerups_188
+  - first:
+      213: -7219552518803955233
+    second: Blocks And Powerups_189
+  - first:
+      213: -2910164762125249808
+    second: Blocks And Powerups_190
+  - first:
+      213: 2295557668388863940
+    second: Blocks And Powerups_191
+  - first:
+      213: 769251657291155651
+    second: Blocks And Powerups_192
+  - first:
+      213: -159482508652874398
+    second: Blocks And Powerups_193
+  - first:
+      213: -131165845367277592
+    second: Blocks And Powerups_194
+  - first:
+      213: 3799691755964664810
+    second: Blocks And Powerups_195
+  - first:
+      213: 5285264416434055032
+    second: Blocks And Powerups_196
+  - first:
+      213: 2598718076267397861
+    second: Blocks And Powerups_197
+  - first:
+      213: 5557994159674313985
+    second: Blocks And Powerups_198
+  - first:
+      213: 6158517095374007264
+    second: Blocks And Powerups_199
+  - first:
+      213: -5107481443548191866
+    second: Blocks And Powerups_200
+  - first:
+      213: 6033738023205075494
+    second: Blocks And Powerups_201
+  - first:
+      213: 5373033016067642716
+    second: Blocks And Powerups_202
+  - first:
+      213: -6801035437250786411
+    second: Blocks And Powerups_203
+  - first:
+      213: 2079772114921487982
+    second: Blocks And Powerups_204
+  - first:
+      213: -8126431904705725454
+    second: Blocks And Powerups_205
+  - first:
+      213: -7109873930920217375
+    second: Blocks And Powerups_206
+  - first:
+      213: -4172142271570491997
+    second: Blocks And Powerups_207
+  - first:
+      213: 6816614230112723998
+    second: Blocks And Powerups_208
+  - first:
+      213: 343849394900668387
+    second: Blocks And Powerups_209
+  - first:
+      213: 1192650892417671318
+    second: Blocks And Powerups_210
+  - first:
+      213: 5053263725308906503
+    second: Blocks And Powerups_211
+  - first:
+      213: 7340022597063658845
+    second: Blocks And Powerups_212
+  - first:
+      213: -6206021274873487648
+    second: Blocks And Powerups_213
+  - first:
+      213: 7386546453545661919
+    second: Blocks And Powerups_214
+  - first:
+      213: -6300556869470381288
+    second: Blocks And Powerups_215
+  - first:
+      213: -1835815075214040963
+    second: Blocks And Powerups_216
+  - first:
+      213: 1331289141613813719
+    second: Blocks And Powerups_217
+  - first:
+      213: -7723530973278934099
+    second: Blocks And Powerups_218
+  - first:
+      213: -7730499050637930980
+    second: Blocks And Powerups_219
+  - first:
+      213: 7056472019136615872
+    second: Blocks And Powerups_220
+  - first:
+      213: 4104880026887960651
+    second: Blocks And Powerups_221
+  - first:
+      213: -8834125765163444384
+    second: Blocks And Powerups_222
+  - first:
+      213: 8061194455841324600
+    second: Blocks And Powerups_223
+  - first:
+      213: -1761667525989136684
+    second: Blocks And Powerups_224
+  - first:
+      213: 505807741845293133
+    second: Blocks And Powerups_225
+  - first:
+      213: -2153382430264453844
+    second: Blocks And Powerups_226
+  - first:
+      213: 6285048559620165787
+    second: Blocks And Powerups_227
+  - first:
+      213: -8654604022771978462
+    second: Blocks And Powerups_228
+  - first:
+      213: 2139071964989347174
+    second: Blocks And Powerups_0
+  - first:
+      213: -6384146155863645400
+    second: Blocks And Powerups_1
+  - first:
+      213: 8240236504619289569
+    second: Blocks And Powerups_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blocks And Powerups_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 310
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb44699dbddb8943b88c663f552352f
+      internalID: -385067716370558006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 310
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293eefad66cf9541a420863912297c6
+      internalID: -4842588887750045835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 310
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc18fa49eb052e84782bb960d9848dbb
+      internalID: 4285435774430501978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 310
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8fb714f3086b4c80282ce9f488c92
+      internalID: 8036996094148009481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e7aa911ce6834f95c9d949ffdf2b3
+      internalID: -2564325780387712419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 310
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3436d401480cd5469e7798ad85e104b
+      internalID: -1806916817411447150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 310
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308d7c28b4e07a41933c6b592d8e635
+      internalID: 9110857682436139951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 312
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d74355d522e884c9526d1eecaa221f
+      internalID: 4305420128209133993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4055e59d6ed8b47a41032853257ef5
+      internalID: -6367514000389675056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 310
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3956e5dcddf5646821d60188d6409a
+      internalID: -1264777242193022545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b6eb1e7eba83419929ab64397d896
+      internalID: 5641858949920859009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d68863de3601cc469b6974c069441fd
+      internalID: -4728629252435764577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 300
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee940c252e4d3074482d0925a8a40152
+      internalID: 4044289597841708361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 300
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65486664cdf92754786ecfe63f97ada2
+      internalID: 2049870690142643153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 300
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0cdc669c2eeb4d9bdba4e3427e6be
+      internalID: -4587206580810138614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 300
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fb37fa5b0a460458d936e3ce8f2e7b
+      internalID: -7313763307554329541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 300
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc1e9fa2a7fa34aaab2974ce35ec2b
+      internalID: 6837574843639250773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 300
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba80059104c1fbd44ac1bf1b87f50fbe
+      internalID: -4004223648478447729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 290
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730769df1aaf59a40b9c1c9723861eab
+      internalID: -3604978089449994721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84adb33b04ae17042b018962036552eb
+      internalID: 6721432382278120795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 290
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e2d853f03320745abd197fff20a19f
+      internalID: -1107743193140761945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a0bcce62366243a294a812ec915fb
+      internalID: -2045711563484952398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 290
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37172835cbc83cc4981cc77d75cdc091
+      internalID: 6595080864560036329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e17baf2a84c440b762bd7475aa240
+      internalID: -5002944650406827399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928cd282abba5244ab7b3235cb4dc2c4
+      internalID: 3751737687899727769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf7ebc1c8d5e2408a98ff63699a39a
+      internalID: -443458486216100685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb729f044204084e86bf9789c522e6e
+      internalID: 9111071801343087957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 290
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2050139b3778644ba54ec5ec8d18bb
+      internalID: 5592292275954826480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 290
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e5a79edb9ab7843a8a8677e3b924bf
+      internalID: 5895091109310892148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 292
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d32e79083c85f4a99ae03689337119
+      internalID: -4658875656265736767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 270
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a34af8b8c9858449c496c6858cd3fd
+      internalID: -2233490253369668376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 270
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f3a7ccd4236d45ae3f56c31ed264d
+      internalID: 8224742453579617469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df732a415db6dc049a407a83b8e57686
+      internalID: -6668773825185673172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7df5ef16fbd94ea880fb3c067ddc8
+      internalID: -5196241698202920029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_48
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d23270c72c760540bc4ca1b4d9457dc
+      internalID: 7905269959238812175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a986090957d8a64d870e07a5b2f95dd
+      internalID: 7771431504776938008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c617cabb811ffa43941349a582bee08
+      internalID: -4826146542578016361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745e34cdd5c3bed4d9b3a41389c7c278
+      internalID: 4300847492416417842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca897a576aa1e548b3332d83a847cea
+      internalID: -8168649879965658889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_53
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 255
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbcb2de5a8622247b2d33bc1fae4b21
+      internalID: 5702828036436153729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 259
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4529948e4095c3489f672f703a43685
+      internalID: -3395871120723302026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0004df70dcc53b4898f9aceb18cd6f8
+      internalID: 6414552836140404214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f2b194f7c12b468d6f6153758d6f8
+      internalID: 4037595166685701136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab2b68a9e7d4b94b924a2ab23183b5a
+      internalID: 6650176821216561999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be36d2953fe997f4496b710794c241bd
+      internalID: -5820708224995219458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812cf50d0dff0745b76e96988b53118
+      internalID: -4034070313016742871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_60
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9cf25fc1561414f9471444f9b53af6
+      internalID: 5397594832087100009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835ae38e15284074b8f611ff22c5f0e7
+      internalID: -4560786284672815715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5b55a628b75d4cad6711df308efcb
+      internalID: -3432890939290687455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241ffc7e48e01e4aaa7cd848d0c1910
+      internalID: -2224192471605126939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a668c8e9782cbc4f9d4d75c47134be9
+      internalID: -7651668811634029386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db8311d597a28a4b87550f2c5f75b1c
+      internalID: -7856608688311953299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4886fc730b248a4d95e5d72f8324298
+      internalID: 128059820662215312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_67
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489da71ff68fb94c83aadafcbc263b3
+      internalID: -949596516232943193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_68
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2023da9a363bb944da8ebd8c2934fae9
+      internalID: 536554609531869546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbbc2ff5962e4a4ebe541d80ae9d073
+      internalID: -7999826832313367371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 242
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c7f94670ba60449530a40bd649cda
+      internalID: 7463786370118748770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_78
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 233
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da264d5e4f5f80042a72766f6ceb19fc
+      internalID: 1558862336654064850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_80
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda7c9163cc8b3340a55aa5e0bfc851d
+      internalID: 5750912318883300369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e34debbcacdf45bb17ddeee80d936
+      internalID: -5039951358698969659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e417cb37ad7f4186e6bd8a7f85a5b
+      internalID: -6549388102157077925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_83
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 215
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0f991d2042dc84db06e3c130058360
+      internalID: 8754974989375022436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_84
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 218
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a59caa418a5e47a4eda419c6deafb
+      internalID: 6989432269508575169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 215
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b448f5dddcd32845947b6a48c846346
+      internalID: -2184024840345170694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_86
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4d3be225a171e49a75192b683fcdfc
+      internalID: -1485950318009489126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_87
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff902a541a5ddd4bbef81981c7f3891
+      internalID: -1943400368056149412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_88
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f817374caba14f9b2a3117e9d4e8d
+      internalID: -8444309078973215968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_89
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9513b68a352714a47a70f7e5212f33e3
+      internalID: 7127441000219101864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_90
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa5f499e9234f41b340dbdd48b4bfe
+      internalID: 215601082085434166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_91
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1c1495dfe2ae4d84d5ed944b050d1
+      internalID: 3484352795177740923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836ff10a75d945438927269a9876720
+      internalID: 3265625933454410093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_93
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853bc20ecce5cbd42b6ebf075ca28cf1
+      internalID: 5911108097622535635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_94
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27560e844eeea2c4983bafc57105be8f
+      internalID: 327937099868943817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_95
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 192
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e57dd2d1d74e498ac9f18fd299498
+      internalID: 421382292831766128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0771a52c1aa230241942fe20399e442d
+      internalID: 8006398044176787723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3134b957c6fa9894fa45d0b159e562da
+      internalID: 8779919512947190573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c88dca8de40446840427f70ca711e
+      internalID: -7614639831205415847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_99
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 193
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28687ab659d4954fab2a15abb3bdb7e
+      internalID: 2952965801519346674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_100
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 197
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f185661a2c3f0489032373d9722ab9
+      internalID: 1350715717350039954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39efb56e83be9849bda638fd7c9b127
+      internalID: -7182712325902525364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_102
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed29f6eaf24f6a4798784d22c3423e3
+      internalID: 7502319675398364428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_103
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11f5e8d1c8904148960e65d967907dd
+      internalID: 6860800802241215998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_104
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e4ee13b91bbb345bc001485a4b65da
+      internalID: -6407068554518130151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_105
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144571c46e095784fa82f195c9be913d
+      internalID: 3699323740209990460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_106
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1273c51f46e744fb79fdb8ff5e64de
+      internalID: 434139301515869704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292c05c9eea744478ccaf153c39c3cf
+      internalID: -8574759431216025246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0bcc2d611e70c4198f32a7b26c51d7
+      internalID: 1665505147757751238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_109
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c045883f780dd4eb89131e124db4a6
+      internalID: -7590999348291582089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c91c7123343f6458bcd2b032ed9d71
+      internalID: -2238267362766190797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_111
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4766503eb8b1e024a8348b4cbebc7221
+      internalID: 7672432851359141924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b7ae8ca6054c94f99f3f54081062c5
+      internalID: 3789714525218690067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_113
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 174
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973f4d969d8dcac4da598c9ffc59d07b
+      internalID: -9188616797023410859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_114
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 178
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac34c98ed6922d54e9aa8bb452e7390a
+      internalID: -2788744267636015389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_115
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 175
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20dd56bcec471d4993692c432b3bd8e
+      internalID: 7700720912517468628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_116
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca24d6d25c0be649ad4c3200af077a0
+      internalID: -2543193233811798358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_117
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9f748ff069d164ab4c9103ab089cb1
+      internalID: 6104060359255825329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_118
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f12d9ae639945343af712cc58d41a79
+      internalID: -5647127555859788638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_119
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace02dcd19b6d44c9d09a68bff8c829
+      internalID: 6559720025768682876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_120
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93fb4d2cdca3d4c9ed1e86daa14721
+      internalID: -5878276718326116053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_121
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6bc2e4629cbe04f8ead59a3fb117b7
+      internalID: -4927923641161612410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_122
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617f56c74096f546856d2dea363e7a8
+      internalID: -5723675763863217992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_123
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5c88ffdeda7f2479d13d38c36055f6
+      internalID: -7579217555676329739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_129
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 125
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af79dd9196fc6a4a89c89faf298f1eb
+      internalID: -3304149312593330825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 124
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d4fcc71d8a3044adf9da329917057
+      internalID: -8491464876235592416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_131
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 124
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9c01726de0274f938b03eb0f5f696
+      internalID: -3718366574770744512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_132
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 124
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd65b504921aa6a4f808658e9122e14d
+      internalID: 4704644813502955822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362251bd408a7934fbb5969a7d0744f3
+      internalID: -2200036418341059384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_134
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e5baf7c8187d743b1ac76df45c92d2
+      internalID: 2274303855463635023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_135
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 121
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334446e958b9a774a99c65784b33938a
+      internalID: -1166152929356510680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_136
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4a83ff40e86ce419af6edc4716406c
+      internalID: 2623661717773830843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_137
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6cacad449451047bf5533ba98c650a
+      internalID: -505559926243939202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_138
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 125
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ee4d5629acac409ea85fd3c2731d0
+      internalID: -3775537696363121812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_139
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 125
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b470dd7ab62f459194e4544961d80
+      internalID: 7637367473946734258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_140
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 125
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53b2aaa31bb9a649aeca44a876e0c76
+      internalID: -6985258639775366952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_141
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2f02e2dd9f6a94d99145f2407883a8
+      internalID: 8459063217269556959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_142
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf7240ed763be346911ac7099689224
+      internalID: -2493998828129639062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_143
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a62edf0f75c24ab2f71b8358913f5
+      internalID: -3988333888033989946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fda5bf4f7cbcf459505075d7431357
+      internalID: -568490823608504807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_145
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 105
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d830f86d53d96442a92013f17a36cce
+      internalID: -5429171078871669603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_146
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 105
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3743b0c43b8ceca408fbbebc9d3b7491
+      internalID: 8441604839732114884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_147
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 105
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ee0c45b6ab3f408b1fffcc6e49f72
+      internalID: 894638357357764338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8741802afb5b52244b4ed8af27475cd2
+      internalID: -6506508455872534545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_149
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb19b425fd82634ab5d95ac5ee6a8e1
+      internalID: -559107980233655979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_150
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe73e6e1106ef94a853d8a8cd9261d3
+      internalID: -2936872810718157253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_151
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a931c8a790a44c9a6c62979fd6577
+      internalID: -1653933002487113260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_152
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 113
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b6ba6a7824a2419f34ed8d7ffa142
+      internalID: 1952725386835663262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_153
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 113
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d4c4dd999f804458bd422be625dc9a
+      internalID: 1249794848230857513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_154
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 113
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68da425c8d07b2a479162eb6ceec76d9
+      internalID: -7745492548128809100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_155
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 70
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a01948e077b8e42b00f07caddda92a
+      internalID: 8441176376330479310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_156
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 70
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807368ab1e359e74ba740207974854d4
+      internalID: 2768304247941965391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_157
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f192b119b36cbd40b4e2a5e5e05c172
+      internalID: 2680295501916266494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_158
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f44c9057d7d11469b75d1157ff17e5
+      internalID: -6588740327484015249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_159
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e3bbfeecd42514094cc1688c2f1554
+      internalID: 6251989442129103057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_160
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd639edc8a0a647848f807ddbae970
+      internalID: 453292800279410781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_161
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba5224d41083284f98cbf2ea7c2486d
+      internalID: -843606363016157789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_162
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb119c2b30e0c14b90ca58d88f3481f
+      internalID: 7871856362930907501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_163
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aed05a765139194e9e3022cb0a99be3
+      internalID: 699143632483931647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 92
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d217bc5a4f5744f95ebd1bd690398d
+      internalID: -6747690311938138042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_165
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985096b8b355a904a91177ac22db8bb3
+      internalID: -1864144892349169725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff62bbe3eb0ea4891ba4ef4b1f1734
+      internalID: 8739546198840036121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_167
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 75
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f7be4a0a22a0d42b0ffa9eef3c8d92
+      internalID: 161187275038554319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_168
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 81
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7145e8f5f4a9358458d1290bccdb9999
+      internalID: 4198733442407186314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_169
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 81
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f955189091ab4881d0872619811ff
+      internalID: 2515374273614282319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_170
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 81
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c007ac9db37912d49b0b1f676823489b
+      internalID: 8202857589564472656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_171
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 72
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c19794171a2b4648bec08383a0001d0
+      internalID: 6957341748612612770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa273113e524ef4caa4844992320ec5
+      internalID: -7373795227985918199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_173
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b79e963a863b648a163ead948e52a1
+      internalID: 2880002787972868596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_174
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422a73fcf5a6a6e439481ebd437333e4
+      internalID: 3391235836745512825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_175
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 73
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33c738305a2c6489e73704f247844e
+      internalID: 6645851060422801742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_176
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 73
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dab0d8258de774d9c845fee5d36346
+      internalID: -3360735843034894301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_177
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 73
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6040f0ed7bb352046ae281a7c5b5eec3
+      internalID: -9209065134091028586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_178
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 71
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255bf80e9e96e314c941b062e07336a7
+      internalID: 8538885588468682975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_179
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 71
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a64b4c808a1c343a2ea8b59d1db0bf
+      internalID: -6672395170114293845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_187
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3718f3f9fe1d9449bc765fd2c0977e
+      internalID: 7356383246509932432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_188
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc3e173256ac846895c11ddc199c62
+      internalID: -5418723083986942086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_189
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dad246745c24f74f80343f5f728313f
+      internalID: -7219552518803955233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_190
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 47
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69455fbc7d51dc64bbb4ffba8845d689
+      internalID: -2910164762125249808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_191
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356462e03cfb51469342ed3fc81cd4a
+      internalID: 2295557668388863940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_192
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ef76b3b15c0148bc471a5bbdbe1b1
+      internalID: 769251657291155651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_193
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17f0ccc0d34f5c448bed45d8f35939f
+      internalID: -159482508652874398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_194
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2215112a63050245b4186e30bd23388
+      internalID: -131165845367277592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_195
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d96516abdd91d41a90347c5e3bacdd
+      internalID: 3799691755964664810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_196
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d1bbadcf49c6643bff36a655cdb109
+      internalID: 5285264416434055032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_197
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d44d7e00c9a984d9184e4acfef84dd
+      internalID: 2598718076267397861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_198
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ffb3b147b140488d1819bb0a5528f
+      internalID: 5557994159674313985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab79fafa58ec6f84c89d5042969c8b25
+      internalID: 6158517095374007264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_200
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c629ae967dbc8f44bec667b78cf6e4d
+      internalID: -5107481443548191866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_201
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b992995806b68645877490cc034a0e9
+      internalID: 6033738023205075494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_202
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544577607a7413a47a981058b47d20a4
+      internalID: 5373033016067642716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_203
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c4471f970b3c499a09edd99cbf0cc
+      internalID: -6801035437250786411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_204
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 30
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ed2dd66e33d342b94929f88d994d0
+      internalID: 2079772114921487982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_205
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574efd54794a8544b98f438d36e8ca6
+      internalID: -8126431904705725454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_206
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841d9ce4a91c1d4fac023d61a8840f4
+      internalID: -7109873930920217375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_207
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d10f7712bf95824abdbbaa07449db3f
+      internalID: -4172142271570491997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_208
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450e399b5eb202349b9567a0368bd845
+      internalID: 6816614230112723998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_209
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce4bd83be077fe4b9493bb36b9c6f9c
+      internalID: 343849394900668387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_210
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22feed396542d134ba630255d529bc5e
+      internalID: 1192650892417671318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_213
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97857059bb29e2640848cd121ae85959
+      internalID: -6206021274873487648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_214
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4736d813c87d95240a38f5cd8d356dd5
+      internalID: 7386546453545661919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_215
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 13
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00440a3fcabbd0c45ad675f84f5df27c
+      internalID: -6300556869470381288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_216
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 25
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3693efd98c70a65448122bc630609ff6
+      internalID: -1835815075214040963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_217
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 25
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7667e9e485a4a0c43bd64d517043c464
+      internalID: 1331289141613813719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_218
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9bde60e9bb9f849ad341e71be97f53
+      internalID: -7723530973278934099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_220
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32fd70f7acac848b5af405890298d3
+      internalID: 7056472019136615872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_221
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 6
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98f6d44b385214992813450173a13b
+      internalID: 4104880026887960651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_222
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 6
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f737b004b065ce4a88144070eb0b65c
+      internalID: -8834125765163444384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_223
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141cce66a00cc174fb3c59b3e6e6915f
+      internalID: 8061194455841324600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_224
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad192695900ada4596657b4ef05e94a
+      internalID: -1761667525989136684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_225
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f57725c3c30784ba3ef8f5c0b87732
+      internalID: 505807741845293133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_226
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe73ab5de92d87c41b34e5d145aba9da
+      internalID: -2153382430264453844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_227
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c03da1108f91c48a8b25e509ad3e0e
+      internalID: 6285048559620165787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_228
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 10
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f11e5a3384a6145b7f2359bbe4044a
+      internalID: -8654604022771978462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76541d1f202c6947a9f85d5a5e34a71
+      internalID: 2139071964989347174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811415c57c42686419c79e0a794edb6d
+      internalID: -6384146155863645400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blocks And Powerups_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 213
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba07184010898440a4fd03d41f39579
+      internalID: 8240236504619289569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
