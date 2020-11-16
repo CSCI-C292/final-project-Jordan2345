@@ -9,7 +9,7 @@ public class EndOfLevelTicker : MonoBehaviour
     [SerializeField] GameObject gate;
     [SerializeField] GameObject ticker;
     [SerializeField] RuntimeData _runtimeData;
-
+    [SerializeField] Animator animator;
     int waypointIndex = 1;
 
     // Start is called before the first frame update
@@ -42,17 +42,12 @@ public class EndOfLevelTicker : MonoBehaviour
             float height = (transform.position.y - waypoints[0].transform.position.y) * 6.25f;
             int score = (int) height;
             Debug.Log(score);
-            Destroy(gameObject);
             _runtimeData._gateScore += score;
-        }
-        else if(gameObject.name.Equals("Gate"))
-        {
-            Debug.Log("Missed Ticker");
         }
         AudioManager.AudioInstance.StopSound();
         AudioManager.AudioInstance.PlaySound("Level Clear");
         Destroy(gate);
         Destroy(ticker);
-
+        animator.SetBool("hasWon", true);
     }
 }

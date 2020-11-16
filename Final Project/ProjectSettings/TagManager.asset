@@ -11,6 +11,9 @@ TagManager:
   - Coin
   - Pipes
   - Koopa
+  - Fruit
+  - Coin Block
+  - Turn Block
   layers:
   - Default
   - TransparentFX
@@ -24,7 +27,7 @@ TagManager:
   - Background
   - Collectables
   - Pipes
-  - 
+  - Player
   - 
   - 
   - 

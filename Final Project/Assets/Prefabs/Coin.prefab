@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8924631747066792229}
   - component: {fileID: 7168056010072315257}
   - component: {fileID: 6602368830552526834}
+  - component: {fileID: 8584591292888391607}
   m_Layer: 10
   m_Name: Coin
   m_TagString: Coin
@@ -108,3 +109,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.75, y: 1}
   m_EdgeRadius: 0
+--- !u!95 &8584591292888391607
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3172928531113666760}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9b40de17f6fe64449987a4feb8bdddc0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

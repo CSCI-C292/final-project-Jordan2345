@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float _jumpForce = 7f;
     [SerializeField] float _runningBoost = 3f;
     [SerializeField] RuntimeData _runtimeData;
+    [SerializeField] List<string> _landables;
     private bool canMove = false;
     private bool canJump = true;
     private bool isRunning = false;
@@ -17,17 +18,20 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rigidbody;
     private CapsuleCollider2D collider2D;
     private string sceneName;
+    private Animator animator;
     // Start is called before the first frame update
     private void Awake()
     {
         rigidbody = transform.GetComponent<Rigidbody2D>();
         collider2D = transform.GetComponent<CapsuleCollider2D>();
-        sceneName = LoadScenes.SceneInstance.getSceneName();
         _runtimeData._timeLeft = 400;
         _runtimeData._totalScore = 0;
+        animator = GetComponent<Animator>();
     }
     private void Start()
     {
+        animator.SetBool("hasWon", false);
+        sceneName = LoadScenes.SceneInstance.getSceneName();
         AudioManager.AudioInstance.PlaySound(sceneName);
         InvokeRepeating("DecreaseTimer", 1f, 1f);
     }
@@ -38,19 +42,25 @@ public class PlayerMovement : MonoBehaviour
         if (canMove)
         {
             CheckJump();
+            CheckIfFalling();
             Movement();
         }
     }
     public void Movement()
     {
         float move = Input.GetAxis("Horizontal");
+        animator.SetFloat("speed", Mathf.Abs(move));
         if (Input.GetKeyDown(KeyCode.LeftShift))
             isRunning = true;
         if (Input.GetKeyUp(KeyCode.LeftShift))
             isRunning = false;
         Vector2 movementVector = new Vector2(move * _movementSpeed, rigidbody.velocity.y);
-        if (isRunning)
-            movementVector.x = movementVector.x < 0 ? movementVector.x -_runningBoost : movementVector.x + _runningBoost;
+        if (isRunning && move!=0f)
+        {
+            movementVector.x = movementVector.x < 0 ? movementVector.x - _runningBoost : movementVector.x + _runningBoost;
+        }
+        animator.SetBool("isRunning", isRunning);
+
         rigidbody.velocity = movementVector;
 
         flipSprite(movementVector);
@@ -66,13 +76,21 @@ public class PlayerMovement : MonoBehaviour
             Debug.Log("Jumping");
             if (isGrounded())
             {
-                float extraBoost = isRunning ? _runningBoost + _jumpForce : _jumpForce;
+                float extraBoost = isRunning ? .8f *_runningBoost + _jumpForce : _jumpForce;
                 rigidbody.velocity = Vector2.up * extraBoost;
                 AudioManager.AudioInstance.PlaySound("Jump");
+                animator.SetBool("isJumping", true);
                 canJump = false;
             }
             
         }
+    }
+    private void CheckIfFalling()
+    {
+        bool isFalling = false;
+        if (rigidbody.velocity.y < -1.5f)
+            isFalling = true;
+        animator.SetBool("isFalling", isFalling);
     }
     private void flipSprite(Vector2 movementVector)
     {
@@ -95,10 +113,12 @@ public class PlayerMovement : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag.Equals("Ground") && isGrounded())
+        string landingSpot = collision.gameObject.tag;
+        if (_landables.Contains(landingSpot) && isGrounded())
         {
             canMove = true;
             canJump = true;
+            animator.SetBool("isJumping", false);
         }
 
     }
