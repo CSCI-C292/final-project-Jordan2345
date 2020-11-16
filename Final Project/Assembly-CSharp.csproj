@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\ScriptableObjects\RuntimeData.cs" />
     <Compile Include="Assets\Scripts\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\EndOfLevelTicker.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\LoadScenes.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\ScoreManager.cs" />

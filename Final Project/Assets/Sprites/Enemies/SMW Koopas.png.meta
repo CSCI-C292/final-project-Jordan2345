@@ -1,0 +1,3919 @@
+fileFormatVersion: 2
+guid: 44ead195032488c448953e270c829059
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3801271875505522431
+    second: SMW Koopas_22
+  - first:
+      213: 5112340325677301721
+    second: SMW Koopas_23
+  - first:
+      213: -3206029575096006195
+    second: SMW Koopas_24
+  - first:
+      213: 7165067695967825317
+    second: SMW Koopas_25
+  - first:
+      213: 6721816246132458244
+    second: SMW Koopas_26
+  - first:
+      213: -7599826962186354447
+    second: SMW Koopas_27
+  - first:
+      213: 5676460527508932618
+    second: SMW Koopas_28
+  - first:
+      213: -2394546475680913357
+    second: SMW Koopas_29
+  - first:
+      213: 6792598072153654358
+    second: SMW Koopas_30
+  - first:
+      213: -2534575386313311506
+    second: SMW Koopas_31
+  - first:
+      213: 7653631826545268818
+    second: SMW Koopas_32
+  - first:
+      213: -2491189500252776845
+    second: SMW Koopas_33
+  - first:
+      213: -5338719389859161801
+    second: SMW Koopas_34
+  - first:
+      213: -7797407975097837816
+    second: SMW Koopas_35
+  - first:
+      213: -5044473397490331172
+    second: SMW Koopas_36
+  - first:
+      213: 7242647507373426994
+    second: SMW Koopas_37
+  - first:
+      213: -4403082856109675430
+    second: SMW Koopas_38
+  - first:
+      213: 7415505531235840434
+    second: SMW Koopas_39
+  - first:
+      213: -5489510193277130393
+    second: SMW Koopas_40
+  - first:
+      213: 1849318971537877607
+    second: SMW Koopas_41
+  - first:
+      213: 6431848763629301131
+    second: SMW Koopas_42
+  - first:
+      213: -8368351731907843818
+    second: SMW Koopas_43
+  - first:
+      213: 5990896305751538999
+    second: SMW Koopas_44
+  - first:
+      213: -5911583292386185596
+    second: SMW Koopas_45
+  - first:
+      213: 6615477291923715341
+    second: SMW Koopas_46
+  - first:
+      213: 5056712451165796478
+    second: SMW Koopas_47
+  - first:
+      213: -1018340586640131785
+    second: SMW Koopas_48
+  - first:
+      213: -4232774904200359912
+    second: SMW Koopas_49
+  - first:
+      213: 8930035202098279753
+    second: SMW Koopas_50
+  - first:
+      213: 7118581722531629433
+    second: SMW Koopas_51
+  - first:
+      213: -7882800239220043828
+    second: SMW Koopas_52
+  - first:
+      213: 1369326773475312847
+    second: SMW Koopas_53
+  - first:
+      213: -6458824773458891672
+    second: SMW Koopas_54
+  - first:
+      213: 2522059242652032924
+    second: SMW Koopas_55
+  - first:
+      213: -3824086853410896344
+    second: SMW Koopas_56
+  - first:
+      213: 3208765387280801221
+    second: SMW Koopas_57
+  - first:
+      213: 4938568059187583428
+    second: SMW Koopas_58
+  - first:
+      213: 4911532712481977408
+    second: SMW Koopas_59
+  - first:
+      213: 1326445857156379050
+    second: SMW Koopas_60
+  - first:
+      213: -3855153619878450105
+    second: SMW Koopas_61
+  - first:
+      213: 2530958248985328841
+    second: SMW Koopas_62
+  - first:
+      213: 1127746165046194499
+    second: SMW Koopas_63
+  - first:
+      213: -8413151581181778948
+    second: SMW Koopas_66
+  - first:
+      213: 4451508657423308313
+    second: SMW Koopas_67
+  - first:
+      213: 2890301777089863160
+    second: SMW Koopas_68
+  - first:
+      213: 7736557174258216973
+    second: SMW Koopas_69
+  - first:
+      213: -5660757412230723261
+    second: SMW Koopas_70
+  - first:
+      213: -9082019699944810115
+    second: SMW Koopas_71
+  - first:
+      213: 7062293376086722439
+    second: SMW Koopas_72
+  - first:
+      213: 7377999135724250768
+    second: SMW Koopas_73
+  - first:
+      213: 1894681359753866794
+    second: SMW Koopas_74
+  - first:
+      213: 3100739026082318136
+    second: SMW Koopas_75
+  - first:
+      213: -3128946855425326079
+    second: SMW Koopas_76
+  - first:
+      213: 5186190831923208901
+    second: SMW Koopas_77
+  - first:
+      213: 2214017388834474979
+    second: SMW Koopas_78
+  - first:
+      213: 2416735051234924226
+    second: SMW Koopas_79
+  - first:
+      213: -5417594900494810583
+    second: SMW Koopas_80
+  - first:
+      213: 4478256888138456820
+    second: SMW Koopas_81
+  - first:
+      213: 8265303552431997225
+    second: SMW Koopas_82
+  - first:
+      213: -5701186984581193253
+    second: SMW Koopas_83
+  - first:
+      213: 2347886275800401206
+    second: SMW Koopas_84
+  - first:
+      213: -7803947338838363834
+    second: SMW Koopas_85
+  - first:
+      213: -5212088817316793182
+    second: SMW Koopas_86
+  - first:
+      213: -5906084651324003218
+    second: SMW Koopas_87
+  - first:
+      213: -7583995692755825403
+    second: SMW Koopas_88
+  - first:
+      213: -1533442135672060609
+    second: SMW Koopas_89
+  - first:
+      213: -6051050103700047553
+    second: SMW Koopas_90
+  - first:
+      213: 8658826375763064249
+    second: SMW Koopas_91
+  - first:
+      213: 8496387427796309417
+    second: SMW Koopas_92
+  - first:
+      213: -6556393839501089792
+    second: SMW Koopas_93
+  - first:
+      213: -1648759737753228185
+    second: SMW Koopas_94
+  - first:
+      213: -7247493457010639026
+    second: SMW Koopas_95
+  - first:
+      213: 5008867917211071573
+    second: SMW Koopas_96
+  - first:
+      213: -7520519483054343048
+    second: SMW Koopas_97
+  - first:
+      213: -7713539016677390887
+    second: SMW Koopas_98
+  - first:
+      213: -1912438815562210363
+    second: SMW Koopas_99
+  - first:
+      213: -3319687724082267920
+    second: SMW Koopas_100
+  - first:
+      213: 7597263291768186494
+    second: SMW Koopas_101
+  - first:
+      213: -1446540321031596890
+    second: SMW Koopas_102
+  - first:
+      213: 5946060736996968060
+    second: SMW Koopas_103
+  - first:
+      213: -3248315690387530213
+    second: SMW Koopas_104
+  - first:
+      213: 3510235396660019992
+    second: SMW Koopas_105
+  - first:
+      213: -3897594909402614396
+    second: SMW Koopas_106
+  - first:
+      213: -7208899174825174160
+    second: SMW Koopas_138
+  - first:
+      213: -1454193216347275080
+    second: SMW Koopas_139
+  - first:
+      213: -6984501574785117157
+    second: SMW Koopas_140
+  - first:
+      213: -9079314615547121813
+    second: SMW Koopas_141
+  - first:
+      213: -5044835993001650837
+    second: SMW Koopas_142
+  - first:
+      213: -8796505808301413524
+    second: SMW Koopas_143
+  - first:
+      213: -6522406032864447896
+    second: SMW Koopas_144
+  - first:
+      213: 3569377691085018496
+    second: SMW Koopas_145
+  - first:
+      213: -8478278403552630819
+    second: SMW Koopas_146
+  - first:
+      213: 4537047784284995053
+    second: SMW Koopas_147
+  - first:
+      213: -4028646768916418307
+    second: SMW Koopas_148
+  - first:
+      213: 3098922635159605547
+    second: SMW Koopas_149
+  - first:
+      213: -5332509533847775193
+    second: SMW Koopas_150
+  - first:
+      213: 8188049043231039963
+    second: SMW Koopas_151
+  - first:
+      213: 1063981263914833717
+    second: SMW Koopas_152
+  - first:
+      213: 4526090052297759108
+    second: SMW Koopas_153
+  - first:
+      213: -6412966262353201532
+    second: SMW Koopas_164
+  - first:
+      213: -5939709728339324515
+    second: SMW Koopas_165
+  - first:
+      213: -8271220856762071647
+    second: SMW Koopas_166
+  - first:
+      213: 6986929656932151821
+    second: SMW Koopas_174
+  - first:
+      213: -1103203193897268958
+    second: SMW Koopas_175
+  - first:
+      213: 5228174927327165172
+    second: SMW Koopas_176
+  - first:
+      213: -5692588591932417634
+    second: SMW Koopas_177
+  - first:
+      213: -8234324773134731560
+    second: SMW Koopas_178
+  - first:
+      213: 4257531664288440431
+    second: SMW Koopas_179
+  - first:
+      213: 4671964063242182138
+    second: SMW Koopas_180
+  - first:
+      213: 5696581364813153263
+    second: SMW Koopas_181
+  - first:
+      213: -6514705895929490366
+    second: SMW Koopas_182
+  - first:
+      213: 4234569875529565048
+    second: SMW Koopas_183
+  - first:
+      213: 4751932549507035358
+    second: SMW Koopas_184
+  - first:
+      213: -1521996100702205037
+    second: SMW Koopas_185
+  - first:
+      213: 6500694409352751255
+    second: SMW Koopas_186
+  - first:
+      213: 3094978177061727031
+    second: SMW Koopas_187
+  - first:
+      213: 1262511499084909757
+    second: SMW Koopas_188
+  - first:
+      213: 6455339466947790882
+    second: SMW Koopas_189
+  - first:
+      213: 6262955344312405712
+    second: SMW Koopas_190
+  - first:
+      213: 3739514671790566594
+    second: SMW Koopas_191
+  - first:
+      213: -7282819394882547696
+    second: SMW Koopas_192
+  - first:
+      213: 1936666174812160838
+    second: SMW Koopas_193
+  - first:
+      213: 6623390717649230742
+    second: SMW Koopas_194
+  - first:
+      213: 2144679914822690264
+    second: SMW Koopas_195
+  - first:
+      213: 8014466966949472258
+    second: SMW Koopas_196
+  - first:
+      213: 8190299002839708461
+    second: SMW Koopas_197
+  - first:
+      213: 2020239788974537079
+    second: SMW Koopas_198
+  - first:
+      213: -1262644607201116387
+    second: SMW Koopas_199
+  - first:
+      213: 7846684166906720621
+    second: SMW Koopas_200
+  - first:
+      213: 1099788557591814989
+    second: SMW Koopas_201
+  - first:
+      213: 5252923959738310414
+    second: SMW Koopas_202
+  - first:
+      213: 9165205632789251900
+    second: SMW Koopas_203
+  - first:
+      213: -5837717105804728312
+    second: SMW Koopas_204
+  - first:
+      213: -1184393777629536510
+    second: SMW Koopas_205
+  - first:
+      213: 8422038895278375857
+    second: SMW Koopas_206
+  - first:
+      213: 3243230887890046882
+    second: SMW Koopas_207
+  - first:
+      213: 700579295154391183
+    second: SMW Koopas_208
+  - first:
+      213: -2579105022287228819
+    second: SMW Koopas_209
+  - first:
+      213: -4169787017554923757
+    second: SMW Koopas_210
+  - first:
+      213: -5332181488250891843
+    second: SMW Koopas_211
+  - first:
+      213: 432851888556310513
+    second: SMW Koopas_212
+  - first:
+      213: 4705854602752458823
+    second: SMW Koopas_214
+  - first:
+      213: -1090446434902308181
+    second: SMW Koopas_215
+  - first:
+      213: 6194028285439964970
+    second: SMW Koopas_216
+  - first:
+      213: -5145618012627272988
+    second: SMW Koopas_217
+  - first:
+      213: 47923397949890679
+    second: SMW Koopas_218
+  - first:
+      213: 2493934617194253209
+    second: SMW Koopas_219
+  - first:
+      213: 7641137436941966343
+    second: SMW Koopas_220
+  - first:
+      213: -1045394359793099454
+    second: SMW Koopas_221
+  - first:
+      213: 5107404877795043364
+    second: SMW Koopas_222
+  - first:
+      213: 2774056916161980184
+    second: SMW Koopas_223
+  - first:
+      213: -4282703415498948467
+    second: SMW Koopas_224
+  - first:
+      213: 6802176611404315048
+    second: SMW Koopas_225
+  - first:
+      213: 3346842598173994463
+    second: SMW Koopas_226
+  - first:
+      213: -5728840786548188515
+    second: SMW Koopas_227
+  - first:
+      213: 8595990007739875974
+    second: SMW Koopas_228
+  - first:
+      213: 10634345079332006
+    second: SMW Koopas_229
+  - first:
+      213: 8555295977744713758
+    second: SMW Koopas_0
+  - first:
+      213: -1096954959153031561
+    second: SMW Koopas_1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMW Koopas_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 178
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852de965271e8b342a57f1136f81aa7a
+      internalID: 3801271875505522431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 178
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da650de1aebb3eb4d8cc85c29c1c6579
+      internalID: 5112340325677301721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 178
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f5567220bfbc8428f2d267eab394f4
+      internalID: -3206029575096006195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 177
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1f984e8a0bfe4298028c60bfbd6fe
+      internalID: 7165067695967825317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 177
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4dabb28a9ce0458d9fbbbf74fb0bf
+      internalID: 6721816246132458244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 177
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3cc43bccd81fd4bb126de68a22ded8
+      internalID: -7599826962186354447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 175
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff8d31777c14c44ba99b0909137a7e4
+      internalID: 5676460527508932618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 174
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645fb5f396bda384e8bca8e93396c206
+      internalID: -2394546475680913357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 175
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ddefc8b9f7d884aa75ebae0bd92cf8
+      internalID: 6792598072153654358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 193
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6a772d7a0d00141984a76366af5353
+      internalID: -2534575386313311506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5754f118e8837f4ab55248548fad7de
+      internalID: 7653631826545268818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 179
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46c188553a4df04a84a2494993a3a68
+      internalID: -2491189500252776845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 179
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e8e2a3cb8a254a9700c5c61793e68
+      internalID: -5338719389859161801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 179
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4748a71a78c14041b3ad2facf6cc2d7
+      internalID: -7797407975097837816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 179
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc39b67dd8c30c46bd47d26dc639c09
+      internalID: -5044473397490331172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 179
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2b7bb34abfc3743ac79065713d297a
+      internalID: 7242647507373426994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 179
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b78430acf14d40875e3e12f86348e
+      internalID: -4403082856109675430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78982e14c6cbfd749a53864864d392ca
+      internalID: 7415505531235840434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_40
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aad61bf64a7a534c83331dfc1b89f53
+      internalID: -5489510193277130393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b371258987fe49910f28cb93059b5
+      internalID: 1849318971537877607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ebd7c94f3bc3f4f96985471f434258
+      internalID: 6431848763629301131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_43
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7a7eab5454d54ea5a0a24573a3f05
+      internalID: -8368351731907843818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_44
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db83a7d8e0cb04b9f9d666a3e8d6a0
+      internalID: 5990896305751538999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_45
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b0a1de5eccf544281d4517b0b15357
+      internalID: -5911583292386185596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_46
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb65d4752193b47b0016178b3ab451
+      internalID: 6615477291923715341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_47
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade877beb33c334399f3413ac9080b7
+      internalID: 5056712451165796478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_48
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 194
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4716ebe53107c4a4e9392faa5a097579
+      internalID: -1018340586640131785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_49
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 6
+        width: 8
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63ac79f62fdb234c949220d17c394fb
+      internalID: -4232774904200359912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f3360b6429c784c860d7af839e764f
+      internalID: 8930035202098279753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_51
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 175
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a48e17a02a1ef40bc3c15d5163ec6b
+      internalID: 7118581722531629433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 175
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece62f858925f2948b7b83345f6bccfb
+      internalID: -7882800239220043828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_53
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 175
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b89e5b009c88043809026cab9fde0a
+      internalID: 1369326773475312847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0819ee0821cb8645baabe6fad5a86b0
+      internalID: -6458824773458891672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb44405d9e453bd439f49adbaef3bf80
+      internalID: 2522059242652032924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_56
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636d263c126fa04b889ef39484999ad
+      internalID: -3824086853410896344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_57
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee64db7661126240ab1aa833ad05717
+      internalID: 3208765387280801221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_58
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 176
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65797389f687842939642d28221440
+      internalID: 4938568059187583428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f960c6068782ad74092b7b59a225982b
+      internalID: 4911532712481977408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_60
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6760d93ef08b194e9c07a6d9e4cd36f
+      internalID: 1326445857156379050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_61
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c2992dc85e0904fb3ed29f3608ee92
+      internalID: -3855153619878450105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_62
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514246402249f2e4db94f078d2172e0d
+      internalID: 2530958248985328841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_63
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791525ae8193d040942d833c9aa5a8b
+      internalID: 1127746165046194499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 122
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11430f1e894aee2488cc8df4e7b8ff0d
+      internalID: -8413151581181778948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_67
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 122
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027d09459f57bd5498912022b69bd35b
+      internalID: 4451508657423308313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_68
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 122
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11d6204515afc4092982854b7a67f0
+      internalID: 2890301777089863160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 121
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7428a0210d3af24d81e89fac413c3fa
+      internalID: 7736557174258216973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_70
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45475923b1bf5b44faf095a3f484b09f
+      internalID: -5660757412230723261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4bb48860c635243a4ac8b574f6404a
+      internalID: -9082019699944810115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_72
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 118
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ef77a4390326b4ea839177d965dbd0
+      internalID: 7062293376086722439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_73
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 117
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17db6fad79fd3e49b034e5f374e09e8
+      internalID: 7377999135724250768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 118
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2acac04565adaa4dbea01f671f4dfaf
+      internalID: 1894681359753866794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 138
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01ccfbacfb8eba4bb30791b29d041eb
+      internalID: 3100739026082318136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_76
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 137
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e35d535f099f43930ddadd3923537
+      internalID: -3128946855425326079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 122
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474d951aee6c964e827fd1f486f6c8e
+      internalID: 5186190831923208901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_78
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 122
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129b84ccd78a394e81ebb4fe05d7aa1
+      internalID: 2214017388834474979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 122
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195569d259312ce4ab1a71e19edd0140
+      internalID: 2416735051234924226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_80
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 122
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b9d9e614e8a744cbb6e143574d372c
+      internalID: -5417594900494810583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_81
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 122
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acfe5821a1ab8c40aefde847bc8af53
+      internalID: 4478256888138456820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_82
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 122
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a982d172107974b419727d01a1801d46
+      internalID: 8265303552431997225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_83
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef730df7499ea4dbf769cc97bba98c
+      internalID: -5701186984581193253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_84
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6131b42b3f85c64e997335f6820c27f
+      internalID: 2347886275800401206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_85
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c0af0dfd540243b9bca9cbce10cba
+      internalID: -7803947338838363834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_86
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3a7d8b2e451a44b5f9db7b70b83e4
+      internalID: -5212088817316793182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_87
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed25b33f811c742a97707a43249006
+      internalID: -5906084651324003218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_88
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb36db38701e75469d77aa921a9d5e1
+      internalID: -7583995692755825403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_89
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415232a3453a7048a6854e4b3705964
+      internalID: -1533442135672060609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_90
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d2ad0a393cdf42b95ee6d70dcd87e
+      internalID: -6051050103700047553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_91
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55c4c1e5ccac2f4d8a2ef487b979c5a
+      internalID: 8658826375763064249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_92
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c89504aac0e3524087dae6b9edb8f96
+      internalID: 8496387427796309417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_93
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be42120b267f844a935e45ff870c3a5
+      internalID: -6556393839501089792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_94
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 120
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5046a516ba2242bff8de4cc0b8f48
+      internalID: -1648759737753228185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_95
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 120
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f8c57e5637c524fb65e74afc2e3da8
+      internalID: -7247493457010639026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_96
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17722ae4abb495e42951dcedf7152c9a
+      internalID: 5008867917211071573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac55e04d1615ba429cf2ed08cf07389
+      internalID: -7520519483054343048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_98
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f626f5c9175c4e854738ecd0dc04d
+      internalID: -7713539016677390887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_99
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7112547b147c2004c85e0811d704c204
+      internalID: -1912438815562210363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_100
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9582c8256e1f8f45a85a7784548f96e
+      internalID: -3319687724082267920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_101
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84670385d51bfc74fb42f157b5b3ebe5
+      internalID: 7597263291768186494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_102
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946dafec935f424fa96d62fbadec7b1
+      internalID: -1446540321031596890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_103
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700aac550f57bc04fb50bac27c8a8509
+      internalID: 5946060736996968060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_104
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846bb5565e0f2ed46a193bc3ed8555b9
+      internalID: -3248315690387530213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_105
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18d7b8360d35184b895c318b0234aee
+      internalID: 3510235396660019992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_106
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe46d140ecc5eb4cb3ad4fc2bb342cc
+      internalID: -3897594909402614396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_138
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 68
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9090e09857c6cd045a21eaadc4a2928e
+      internalID: -7208899174825174160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538c090a357b3794baf46160efe01496
+      internalID: -1454193216347275080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_140
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9fed768cff842409d0f2b4ab46da32
+      internalID: -6984501574785117157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70df4d47b0edb94388469a263badb24
+      internalID: -9079314615547121813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_142
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da4cb44a9e0dec4387eabfcde2876d3
+      internalID: -5044835993001650837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_143
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c377ea154ba194486db3fb13ef8ad8
+      internalID: -8796505808301413524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_144
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08602b2b5ababd34faf650796a8ade93
+      internalID: -6522406032864447896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_145
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672543a428779374984aaefdb8edc47d
+      internalID: 3569377691085018496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_146
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c38332bcca1d0d4299c1c770539ab8a
+      internalID: -8478278403552630819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_147
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65629bf80745534a9b8dc50e6bf9a3d
+      internalID: 4537047784284995053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_148
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150f7e95811d9b42948189c07c1de61
+      internalID: -4028646768916418307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_149
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e90336fc851c547a0a102ba8bbea30
+      internalID: 3098922635159605547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_150
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf0dae70bcb5547a505f72eef1bb73
+      internalID: -5332509533847775193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_151
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bc55a92bf9839489771cdfec9f30d0
+      internalID: 8188049043231039963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_152
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d7d0d27c4ff454b89b5ac02786563f
+      internalID: 1063981263914833717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_153
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af53a54863e22d41986fef68821870b
+      internalID: 4526090052297759108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_164
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d233971430a1d724c8ceb628527ebdf3
+      internalID: -6412966262353201532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_165
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 68
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e1d53c39e9efe4dab8d9b548ec6b38
+      internalID: -5939709728339324515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_166
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 68
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c2d9573ad62a41a96bc9c4e83c1eb
+      internalID: -8271220856762071647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_174
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0cad7cc883fa846975322672e71528
+      internalID: 6986929656932151821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_175
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b976dbd6da34d2d4a9b41082ccdc92c3
+      internalID: -1103203193897268958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_176
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 64
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b545359d45343147ab904cbf498bbfc
+      internalID: 5228174927327165172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_177
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6775cf98725ff4fae88fd6317439d4
+      internalID: -5692588591932417634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_178
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd74184564792645a5b6582126d76fc
+      internalID: -8234324773134731560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_179
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc447850f405fc4fb64ef25e769e53b
+      internalID: 4257531664288440431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_180
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560ce9a3c6b204d428fe42c2fa7070a6
+      internalID: 4671964063242182138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_181
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838c00b5f144e704a88abf85dd868b19
+      internalID: 5696581364813153263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_182
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bff9a181b116249b4dbc77d3281964
+      internalID: -6514705895929490366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_183
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228552f731f3f24ab3e5b7e9e51384d
+      internalID: 4234569875529565048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_184
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c3944f79643a41880a745c1841395
+      internalID: 4751932549507035358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_185
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e2aa6a91d039e4fba4edaa1f9d15a8
+      internalID: -1521996100702205037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_186
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec0507812b1ba48b410175bbfb080c
+      internalID: 6500694409352751255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_187
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 46
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b6937b54f3134085fb5eb43a6f492
+      internalID: 3094978177061727031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_188
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 46
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33138aecf616941ab1a6bf2f6faf1e
+      internalID: 1262511499084909757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_189
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ad7d4f485330478235c6b2c3ebc94
+      internalID: 6455339466947790882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_190
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 17
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a63ef29029ee3b458044a4a82277b4b
+      internalID: 6262955344312405712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_191
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad62b93764071843988795048b2b550
+      internalID: 3739514671790566594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_192
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d6e03bc382be4ab586dbc310b60c8
+      internalID: -7282819394882547696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_193
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 16
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb037e7ee5587d409cfa50102f6c63a
+      internalID: 1936666174812160838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_194
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575312ceadd33ed468a85513bb877530
+      internalID: 6623390717649230742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_195
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 30
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f85427776a8ca479af2dd3c91567c5
+      internalID: 2144679914822690264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_196
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 29
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a388df38eb1ca4744a4b6cb830b5eb55
+      internalID: 8014466966949472258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_197
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 14
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0589b9aab52007f4dbc2502b577d0169
+      internalID: 8190299002839708461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_198
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 14
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb87f06594325344b95b2f55ce3c369
+      internalID: 2020239788974537079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_199
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 14
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f081bdffa32c4c92fe59bc4f7ca1e
+      internalID: -1262644607201116387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_200
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 14
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5400fba65a02645ad4fe7166df1fca
+      internalID: 7846684166906720621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_201
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 14
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc95eafb38dd224d9eb32df5f5011df
+      internalID: 1099788557591814989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_202
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 14
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380016bfa00a2e44a16b28a4212bf15
+      internalID: 5252923959738310414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_203
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cbd9644e374904882ec6a08fdb3d4b
+      internalID: 9165205632789251900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_204
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6825a5c225e534b4d802c211547a2a7c
+      internalID: -5837717105804728312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_205
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f1567135a43f84cbb13269d45f06e7
+      internalID: -1184393777629536510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_206
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2c04a5bdc68c4ea82a7b8ef8259f2
+      internalID: 8422038895278375857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_207
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241ec86c478dd84ebcfe11f794adcae
+      internalID: 3243230887890046882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_208
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4097f61eca574ac44b231b155aca34d8
+      internalID: 700579295154391183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_209
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbf7f756f744d458ec44771cc649a0
+      internalID: -2579105022287228819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_210
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ddc1754880cbc4498e10d2b2d597ae
+      internalID: -4169787017554923757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_211
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9123d444f5a34b749addf51ac20d2816
+      internalID: -5332181488250891843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_212
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6535f741b297348b14accae828ca04
+      internalID: 432851888556310513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_214
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b44d0d15f1b9f840bae6f360c3478d8
+      internalID: 4705854602752458823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_215
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd0d3c9065f9e4ab5318407c077088
+      internalID: -1090446434902308181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_216
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 12
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44916ca01816ec4fbbc34781e246204
+      internalID: 6194028285439964970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_217
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906f744e61e4c4548a219c648a293049
+      internalID: -5145618012627272988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_218
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680bf0ce005bc00418c9545c1380ebf7
+      internalID: 47923397949890679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_219
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e8b0b10ecbc540a831f47852bfe5a
+      internalID: 2493934617194253209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_220
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc0b59b03315c4cbf2fb7eceb8b82b
+      internalID: 7641137436941966343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_221
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c142d1ec38bdd3340bdf6c05c068059c
+      internalID: -1045394359793099454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_222
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cdb2a7e3f2c6941b29ea79896970a8
+      internalID: 5107404877795043364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_223
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6b6355b57a9046a2c8e54c8bebeda
+      internalID: 2774056916161980184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_224
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9301dd5c157dd96418d8fdc84f9bbfcb
+      internalID: -4282703415498948467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_225
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940f3a0bd0e541a42a79d2353522f601
+      internalID: 6802176611404315048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_226
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bdf191303dbb1428298b3d100ae5f2
+      internalID: 3346842598173994463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_227
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affcbec980a72554c88a81b89a54d8d5
+      internalID: -5728840786548188515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_228
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 8
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b9356eda3a6c429195549a5204bc4
+      internalID: 8595990007739875974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_229
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc2a18561789747826e48737f66366
+      internalID: 10634345079332006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_0
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2636c5b67ebb6014f8110696221f9544
+      internalID: 8555295977744713758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Koopas_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caebb7729cccd594ebd96e6a21d6e1c1
+      internalID: -1096954959153031561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

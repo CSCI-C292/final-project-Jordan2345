@@ -23,7 +23,8 @@ public class PlayerMovement : MonoBehaviour
         rigidbody = transform.GetComponent<Rigidbody2D>();
         collider2D = transform.GetComponent<CapsuleCollider2D>();
         sceneName = LoadScenes.SceneInstance.getSceneName();
-        _runtimeData._timeLeft = 300;
+        _runtimeData._timeLeft = 400;
+        _runtimeData._totalScore = 0;
     }
     private void Start()
     {
@@ -105,8 +106,13 @@ public class PlayerMovement : MonoBehaviour
     {
         if (!collision.tag.Equals("untagged"))
             AudioManager.AudioInstance.PlaySound(collision.tag);
-        if(collision.tag.Equals("Coin"))
+        if (collision.tag.Equals("Coin"))
+        {
             _runtimeData._totalCoins++;
+            _runtimeData._totalScore += 10;
+        }
+        else if (collision.tag.Equals("Dragon Coin"))
+            _runtimeData._totalScore += 1000;
         if (collision.gameObject.layer == LayerMask.NameToLayer("Collectables"))
             Destroy(collision.gameObject);
     }
