@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class Player : MonoBehaviour
 {
     [SerializeField] float _movementSpeed = 3f;
     [SerializeField] LayerMask _ground;
@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float _runningBoost = 3f;
     [SerializeField] RuntimeData _runtimeData;
     [SerializeField] List<string> _landables;
+    [SerializeField] GameObject _bullet;
     private bool canMove = false;
     private bool canJump = true;
     private bool isRunning = false;
@@ -26,6 +27,7 @@ public class PlayerMovement : MonoBehaviour
         collider2D = transform.GetComponent<CapsuleCollider2D>();
         _runtimeData._timeLeft = 400;
         _runtimeData._totalScore = 0;
+        _runtimeData._hasWeapon = false;
         animator = GetComponent<Animator>();
     }
     private void Start()
@@ -43,6 +45,7 @@ public class PlayerMovement : MonoBehaviour
         {
             CheckJump();
             CheckIfFalling();
+            CheckWeapon();
             Movement();
         }
     }
@@ -73,7 +76,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space) && canJump)
         {
-            Debug.Log("Jumping");
+            //Debug.Log("Jumping");
             if (isGrounded())
             {
                 float extraBoost = isRunning ? .8f *_runningBoost + _jumpForce : _jumpForce;
@@ -92,8 +95,48 @@ public class PlayerMovement : MonoBehaviour
             isFalling = true;
         animator.SetBool("isFalling", isFalling);
     }
+    private void CheckWeapon()
+    {
+        //TODO - Check Input for when to shoot
+        GameObject weapon = gameObject.transform.Find("Weapon").gameObject;
+        if(_runtimeData._hasWeapon)
+        {
+            weapon.GetComponent<SpriteRenderer>().enabled = true;
+            weapon.GetComponent<SpriteRenderer>().sprite = _runtimeData._currentWeapon;
+            FireWeapon();
+        }
+        else
+        {
+            weapon.GetComponent<SpriteRenderer>().enabled = false;
+        }
+    }
+    private void FireWeapon()
+    {
+        if(Input.GetKeyDown(KeyCode.X))
+        {
+            //Debug.Log("FIRING");
+            Instantiate(_bullet, gameObject.transform.Find("Weapon").position, Quaternion.identity);
+        }
+    }
     private void flipSprite(Vector2 movementVector)
     {
+        if(_runtimeData._hasWeapon)
+        {
+            GameObject weapon = gameObject.transform.Find("Weapon").gameObject;
+            if (movementVector.x < 0)
+            {
+                weapon.GetComponent<SpriteRenderer>().flipX = true;
+                weapon.transform.position = new Vector3(gameObject.transform.position.x -.7f,weapon.transform.position.y,weapon.transform.position.z);
+                _runtimeData._isGunFlipped = true;
+            }
+            else if (movementVector.x > 0)
+            {
+                weapon.GetComponent<SpriteRenderer>().flipX = false;
+                weapon.transform.position = new Vector3(gameObject.transform.position.x + .7f, weapon.transform.position.y, weapon.transform.position.z);
+                _runtimeData._isGunFlipped = false;
+
+            }
+        }
         if (movementVector.x < 0)
             gameObject.GetComponent<SpriteRenderer>().flipX = true;
         else if (movementVector.x > 0)

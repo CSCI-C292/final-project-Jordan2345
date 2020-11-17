@@ -14,6 +14,9 @@ TagManager:
   - Fruit
   - Coin Block
   - Turn Block
+  - Powerup Block
+  - Weapon
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -28,7 +31,7 @@ TagManager:
   - Collectables
   - Pipes
   - Player
-  - 
+  - Back Element
   - 
   - 
   - 
@@ -50,6 +53,9 @@ TagManager:
   m_SortingLayers:
   - name: Pipes
     uniqueID: 71595893
+    locked: 0
+  - name: Back Element
+    uniqueID: 1743637897
     locked: 0
   - name: Background
     uniqueID: 1381870849

@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿/*
+ * https://bigmack.itch.io/wwii-mega-gun-pack - Assets for Weapons
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,7 +10,8 @@ public class Enemy : MonoBehaviour
     [SerializeField] int _totalLives = 3;
     [SerializeField] string _enemyType;
     [SerializeField] float _movementSpeed = 5f;
-
+    [SerializeField] List<string> objectsThatTurnsEnemy;
+    private bool canMove = true;
     private Rigidbody2D rb;
     private void Awake()
     {
@@ -17,7 +21,8 @@ public class Enemy : MonoBehaviour
     }
     private void Update()
     {
-        MoveEnemy();
+        if(canMove)
+            MoveEnemy();
     }
     private void MoveEnemy()
     {
@@ -32,7 +37,8 @@ public class Enemy : MonoBehaviour
             //TODO - Kills/Removes powerup from player
             Debug.Log("Player Killed");
         }
-        else if(collision.tag.Equals("Koopa") || collision.tag.Equals("Ground"))
+
+        else if(objectsThatTurnsEnemy.Contains(collision.tag))
         {
             //turn koopa around
             TurnEnemyAround();

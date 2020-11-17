@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Blocks : MonoBehaviour
+public class BlockBehavior : MonoBehaviour
 {
     [SerializeField] LayerMask _playerMask;
     [SerializeField] int _numHits;
     [SerializeField] RuntimeData _runtimeData;
-
+    [SerializeField] GameObject _weaponType;
     private Animator animator;
     private bool flag = false;
     private void Awake()
@@ -30,6 +30,10 @@ public class Blocks : MonoBehaviour
             _runtimeData._totalCoins++;
             _numHits--;
         }
+        else
+        {
+            AudioManager.AudioInstance.PlaySound("Turn Block");
+        }
 
     }
     private void TurnBlockCheck()
@@ -41,6 +45,20 @@ public class Blocks : MonoBehaviour
             //Debug.Log("Starting");
             AudioManager.AudioInstance.PlaySound("Turn Block");
             StartCoroutine("TurnBlock");
+        }
+    }
+    private void PowerupBlockCheck()
+    {
+        if (_numHits > 0)
+        {
+            animator.SetBool("hasBeenHit", true);
+            AudioManager.AudioInstance.PlaySound("Powerup Block");
+            _numHits--;
+            Instantiate(_weaponType, transform.position, Quaternion.identity);
+        }
+        else
+        {
+            AudioManager.AudioInstance.PlaySound("Turn Block");
         }
     }
     private IEnumerator TurnBlock()
@@ -80,13 +98,17 @@ public class Blocks : MonoBehaviour
             Debug.Log(gameObject.tag);
             if(gameObject.tag.Equals("Coin Block") && isUnderBlock())
             {
-                Debug.Log("Underneath");
+                //Debug.Log("Underneath");
                 CoinBlockCheck();
             }
             else if(gameObject.tag.Equals("Turn Block") && isUnderBlock())
             {
                 flag = false;
                 TurnBlockCheck();
+            }
+            else if(gameObject.tag.Equals("Powerup Block") && isUnderBlock())
+            {
+                PowerupBlockCheck();
             }
         }
     }

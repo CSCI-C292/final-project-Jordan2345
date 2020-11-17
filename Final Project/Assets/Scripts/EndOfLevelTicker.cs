@@ -36,18 +36,22 @@ public class EndOfLevelTicker : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(gameObject.name.Equals("Ticker"))
+        if(collision.gameObject.tag.Equals("Player"))
         {
-            Debug.Log("Ticker Crossed");
-            float height = (transform.position.y - waypoints[0].transform.position.y) * 6.25f;
-            int score = (int) height;
-            Debug.Log(score);
-            _runtimeData._gateScore += score;
+            if (gameObject.name.Equals("Ticker"))
+            {
+                Debug.Log("Ticker Crossed");
+                float height = (transform.position.y - waypoints[0].transform.position.y) * 6.25f;
+                int score = (int)height;
+                Debug.Log(score);
+                _runtimeData._gateScore += score;
+            }
+            AudioManager.AudioInstance.StopSound();
+            AudioManager.AudioInstance.PlaySound("Level Clear");
+            Destroy(gate);
+            Destroy(ticker);
+            animator.SetBool("hasWon", true);
         }
-        AudioManager.AudioInstance.StopSound();
-        AudioManager.AudioInstance.PlaySound("Level Clear");
-        Destroy(gate);
-        Destroy(ticker);
-        animator.SetBool("hasWon", true);
+        
     }
 }

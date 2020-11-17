@@ -138,6 +138,13 @@ MonoBehaviour:
   _totalLives: 3
   _enemyType: Koopa
   _movementSpeed: 3
+  objectsThatTurnsEnemy:
+  - Koopa
+  - Coin Block
+  - Turn Block
+  - Ground
+  - Pipes
+  - Weapon
 --- !u!61 &-8642051314985622365
 BoxCollider2D:
   m_ObjectHideFlags: 0
