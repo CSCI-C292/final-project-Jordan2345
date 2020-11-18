@@ -10,8 +10,16 @@ public class EndOfLevelTicker : MonoBehaviour
     [SerializeField] GameObject ticker;
     [SerializeField] RuntimeData _runtimeData;
     [SerializeField] Animator animator;
-    int waypointIndex = 1;
 
+    public static EndOfLevelTicker EndOfLevelInstance;
+    private static bool hasLevelEnded = false;
+    private int waypointIndex = 1;
+
+    private void Awake()
+    {
+        EndOfLevelInstance = this;
+        hasLevelEnded = false;
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -34,6 +42,10 @@ public class EndOfLevelTicker : MonoBehaviour
             waypointIndex = waypointIndex == 1 ? 0 : 1;
         }
     }
+    public bool HasLevelEnded()
+    {
+        return hasLevelEnded;
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.tag.Equals("Player"))
@@ -51,6 +63,7 @@ public class EndOfLevelTicker : MonoBehaviour
             Destroy(gate);
             Destroy(ticker);
             animator.SetBool("hasWon", true);
+            hasLevelEnded = true;
         }
         
     }

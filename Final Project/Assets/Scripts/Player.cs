@@ -15,6 +15,7 @@ public class Player : MonoBehaviour
     private bool canMove = false;
     private bool canJump = true;
     private bool isRunning = false;
+    private bool hasLevelEnded = false;
 
     private Rigidbody2D rigidbody;
     private CapsuleCollider2D collider2D;
@@ -25,9 +26,7 @@ public class Player : MonoBehaviour
     {
         rigidbody = transform.GetComponent<Rigidbody2D>();
         collider2D = transform.GetComponent<CapsuleCollider2D>();
-        _runtimeData._timeLeft = 400;
-        _runtimeData._totalScore = 0;
-        _runtimeData._hasWeapon = false;
+
         animator = GetComponent<Animator>();
     }
     private void Start()
@@ -35,19 +34,22 @@ public class Player : MonoBehaviour
         animator.SetBool("hasWon", false);
         sceneName = LoadScenes.SceneInstance.getSceneName();
         AudioManager.AudioInstance.PlaySound(sceneName);
-        InvokeRepeating("DecreaseTimer", 1f, 1f);
     }
     // Update is called once per frame
     void Update()
     {
-        isGrounded();
-        if (canMove)
+        if(!hasLevelEnded)
         {
-            CheckJump();
-            CheckIfFalling();
-            CheckWeapon();
-            Movement();
+            isGrounded();
+            if (canMove)
+            {
+                CheckJump();
+                CheckIfFalling();
+                CheckWeapon();
+                Movement();
+            }
         }
+       
     }
     public void Movement()
     {
@@ -67,10 +69,6 @@ public class Player : MonoBehaviour
         rigidbody.velocity = movementVector;
 
         flipSprite(movementVector);
-    }
-    public void DecreaseTimer()
-    {
-        _runtimeData._timeLeft--;
     }
     private void CheckJump()
     {
@@ -116,6 +114,7 @@ public class Player : MonoBehaviour
         {
             //Debug.Log("FIRING");
             Instantiate(_bullet, gameObject.transform.Find("Weapon").position, Quaternion.identity);
+            AudioManager.AudioInstance.PlaySound("Fire Bullet");
         }
     }
     private void flipSprite(Vector2 movementVector)
@@ -175,7 +174,10 @@ public class Player : MonoBehaviour
             _runtimeData._totalScore += 10;
         }
         else if (collision.tag.Equals("Dragon Coin"))
+        {
             _runtimeData._totalScore += 1000;
+            _runtimeData._totalDragonCoins++;
+        }
         if (collision.gameObject.layer == LayerMask.NameToLayer("Collectables"))
             Destroy(collision.gameObject);
     }

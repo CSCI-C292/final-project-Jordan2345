@@ -5,12 +5,14 @@ using UnityEngine;
 public class RuntimeData : ScriptableObject
 {
     public int _totalCoins;
+    public int _totalDragonCoins;
     public int _totalLives;
     public int _timeLeft;
     public int _totalScore;
     public int _gateScore;
     public bool _hasWeapon;
     public bool _isGunFlipped;
+    public string _currentLevel;
     public Sprite _currentWeapon;
 
 }

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 393e3d4e96d81bb44b8fd180fee5e4f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2915802389282065171
+    second: World Map Mario Sprites_0
+  - first:
+      213: -447389539006116692
+    second: World Map Mario Sprites_1
+  - first:
+      213: -9177079763314112745
+    second: World Map Mario Sprites_2
+  - first:
+      213: -3573852753277255595
+    second: World Map Mario Sprites_3
+  - first:
+      213: 4682425682976505224
+    second: World Map Mario Sprites_4
+  - first:
+      213: 8900250642436200284
+    second: World Map Mario Sprites_5
+  - first:
+      213: -1893643219159376599
+    second: World Map Mario Sprites_6
+  - first:
+      213: 1371888195559794157
+    second: World Map Mario Sprites_7
+  - first:
+      213: -8430472788750935600
+    second: World Map Mario Sprites_8
+  - first:
+      213: -8585318507561446178
+    second: World Map Mario Sprites_9
+  - first:
+      213: -757202184906315383
+    second: World Map Mario Sprites_10
+  - first:
+      213: 5541709292185106335
+    second: World Map Mario Sprites_11
+  - first:
+      213: 2180358589168454390
+    second: World Map Mario Sprites_12
+  - first:
+      213: 8748902721401849486
+    second: World Map Mario Sprites_13
+  - first:
+      213: 4386710081565418280
+    second: World Map Mario Sprites_14
+  - first:
+      213: -1637711227863076173
+    second: World Map Mario Sprites_15
+  - first:
+      213: 3123093418623771934
+    second: World Map Mario Sprites_16
+  - first:
+      213: 6673186514843503522
+    second: World Map Mario Sprites_17
+  - first:
+      213: -3236817894285728280
+    second: World Map Mario Sprites_18
+  - first:
+      213: 413160957338191295
+    second: World Map Mario Sprites_19
+  - first:
+      213: -8602702566668515363
+    second: World Map Mario Sprites_20
+  - first:
+      213: -748830105561694822
+    second: World Map Mario Sprites_21
+  - first:
+      213: -1853069400392597730
+    second: World Map Mario Sprites_22
+  - first:
+      213: -2622962180984914885
+    second: World Map Mario Sprites_23
+  - first:
+      213: -3586484187230357587
+    second: World Map Mario Sprites_24
+  - first:
+      213: 7649155139953267998
+    second: World Map Mario Sprites_25
+  - first:
+      213: 6922926940002807652
+    second: World Map Mario Sprites_26
+  - first:
+      213: -3781079785681929595
+    second: World Map Mario Sprites_27
+  - first:
+      213: -2230335049622814834
+    second: World Map Mario Sprites_28
+  - first:
+      213: -395158923009132951
+    second: World Map Mario Sprites_29
+  - first:
+      213: -2381113268371322752
+    second: World Map Mario Sprites_30
+  - first:
+      213: 9045886969669903418
+    second: World Map Mario Sprites_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World Map Mario Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba07097c553b64fb3d7112123160ec
+      internalID: 2915802389282065171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 158
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824a7c8bddb500448b2f13f3750452e
+      internalID: -447389539006116692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 158
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b34165b8acec4cb9c0cd5375bdfe1
+      internalID: -9177079763314112745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 157
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafe0070676b3474d87621a229ca30c4
+      internalID: -3573852753277255595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 158
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445ecdc0e07e7e4087a2798e06e50df
+      internalID: 4682425682976505224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d68c6e2c55391f48af53cc0d3e2502f
+      internalID: 8900250642436200284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 158
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748bf6487729e474a88422ab7de146f0
+      internalID: -1893643219159376599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 157
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50823c192582ff4d91bc9d8d9e9363d
+      internalID: 1371888195559794157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 158
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a6bd9db5ee870498ae32fd74a304c1
+      internalID: -8430472788750935600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 158
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a793933c88823b846b16287950bc6b8e
+      internalID: -8585318507561446178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 158
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46765345f8cabc4da9fee9b26a9ad56
+      internalID: -757202184906315383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 140
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411a4c9df8f3d340830811d3ecdcf27
+      internalID: 5541709292185106335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 140
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4164ab8a1c88e48938ae152f468e42
+      internalID: 2180358589168454390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2415e9997f40ede4abc2b716c6a03ac1
+      internalID: 8748902721401849486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 145
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd6c59b6e840648bf67913ca1994b3
+      internalID: 4386710081565418280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d1a714fea7e148950b7f313763207
+      internalID: -1637711227863076173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 145
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e9efb92fa6077458edf95440648d6f
+      internalID: 3123093418623771934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc781e84d045a8b46a3074475fda17cd
+      internalID: 6673186514843503522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9602f3928384f404e99ff372333a7374
+      internalID: -3236817894285728280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad38ad46c473ac47b44abb1b0ee1cd1
+      internalID: 413160957338191295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 117
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac395da001328834594dcaec36d00aaa
+      internalID: -8602702566668515363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 117
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f102e23e9e9191a4fb740c7a6e49b3a5
+      internalID: -748830105561694822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 117
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03d23ab7fb4cf44a98b859b7a1cae17
+      internalID: -1853069400392597730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 117
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d0ddcab6350484fac4bcc10fe92f11
+      internalID: -2622962180984914885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 117
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db6054b2315074f90bd8303563eaca
+      internalID: -3586484187230357587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 119
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750039e53fd1c2a41a6a22fc3e1a25cc
+      internalID: 7649155139953267998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 120
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdd4e4a0ec007b4a92d2945c8f76c5d
+      internalID: 6922926940002807652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 119
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627ab4fcd71a9944d90e359c9a124192
+      internalID: -3781079785681929595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 120
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea2b84c2b94e94c85481c5d3ca47c6
+      internalID: -2230335049622814834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 119
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec9d6110456d3845bb3e6eecdfcc2ef
+      internalID: -395158923009132951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef844a7c81ebc64d8871b1387f78752
+      internalID: -2381113268371322752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World Map Mario Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12821532a049b684bb21f80475f36cc9
+      internalID: 9045886969669903418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

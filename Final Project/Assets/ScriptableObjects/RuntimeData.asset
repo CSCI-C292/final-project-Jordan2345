@@ -12,6 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c66bdb4c0f0743a43953bf1d03addd71, type: 3}
   m_Name: RuntimeData
   m_EditorClassIdentifier: 
-  _totalCoins: 2
-  _totalLives: 7
-  _timeLeft: 300
+  _totalCoins: 38
+  _totalDragonCoins: 5
+  _totalLives: 6
+  _timeLeft: 366
+  _totalScore: 5140
+  _gateScore: 69
+  _hasWeapon: 0
+  _isGunFlipped: 1
+  _currentLevel: Yoshi's Island Home
+  _currentWeapon: {fileID: -5528894423819592419, guid: 4ed65f54f9552fe41ba5e75fd5e94e93,
+    type: 3}
