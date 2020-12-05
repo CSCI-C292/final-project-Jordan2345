@@ -38,6 +38,24 @@ TextureImporter:
   - first:
       213: -207028528199377371
     second: SMW Pipes_11
+  - first:
+      213: -2448322305542799004
+    second: SMW Pipes_12
+  - first:
+      213: -8109255093878429272
+    second: SMW Pipes_13
+  - first:
+      213: 6652160498045382423
+    second: SMW Pipes_14
+  - first:
+      213: 8761443208028136891
+    second: SMW Pipes_15
+  - first:
+      213: -8648440390296197166
+    second: SMW Pipes_16
+  - first:
+      213: 3597857423023017646
+    second: SMW Pipes_17
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -253,7 +271,7 @@ TextureImporter:
         serializedVersion: 2
         x: 238
         y: 57
-        width: 31
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -319,7 +337,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -340,7 +358,7 @@ TextureImporter:
         width: 30
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -361,7 +379,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -369,6 +387,190 @@ TextureImporter:
       bones: []
       spriteID: c3599766b1e86404ca94a1730915afe7
       internalID: -207028528199377371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Pipes_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 175
+        width: 86
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -13}
+        - {x: -43, y: -12}
+        - {x: -34, y: -3}
+        - {x: -26, y: 5}
+        - {x: -20, y: 11}
+        - {x: -17, y: 13.5}
+        - {x: 43, y: 13.5}
+        - {x: 43, y: 12}
+        - {x: 40, y: 9}
+        - {x: 29, y: -2}
+        - {x: 18, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d6e95ed65ffbe4dbe7e6433f90d69c
+      internalID: -2448322305542799004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Pipes_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 202
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -26.5}
+        - {x: -37.5, y: -25.5}
+        - {x: -36.5, y: -24.5}
+        - {x: -28.5, y: -16.5}
+        - {x: -23.5, y: -11.5}
+        - {x: -17.5, y: -5.5}
+        - {x: -10.5, y: 1.5}
+        - {x: 1.5, y: 13.5}
+        - {x: 2.5, y: 13.5}
+        - {x: 2.5, y: 16.5}
+        - {x: 11.5, y: 25.5}
+        - {x: 12.5, y: 26.5}
+        - {x: 14.5, y: 26.5}
+        - {x: 15.5, y: 25.5}
+        - {x: 31.5, y: 9.5}
+        - {x: 45.5, y: -4.5}
+        - {x: 45.5, y: -5.5}
+        - {x: 45.5, y: -6.5}
+        - {x: 42.5, y: -9.5}
+        - {x: 37.5, y: -14.5}
+        - {x: 35.5, y: -16.5}
+        - {x: 33.5, y: -16.5}
+        - {x: 30.5, y: -19.5}
+        - {x: 23.5, y: -26.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30bdfe5354e0034698b97d85b92ce6d
+      internalID: -8109255093878429272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Pipes_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 175
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -40}
+        - {x: -55, y: -39}
+        - {x: -35, y: -19}
+        - {x: -26, y: -10}
+        - {x: -19, y: -3}
+        - {x: -14, y: 2}
+        - {x: -2, y: 14}
+        - {x: 11, y: 28}
+        - {x: 12, y: 31}
+        - {x: 22, y: 40}
+        - {x: 25, y: 40}
+        - {x: 32, y: 32}
+        - {x: 41, y: 23}
+        - {x: 49, y: 15}
+        - {x: 55, y: 9}
+        - {x: 55, y: 7}
+        - {x: 50, y: 2}
+        - {x: 45, y: -3}
+        - {x: 40, y: -7}
+        - {x: 34, y: -13}
+        - {x: 28, y: -19}
+        - {x: 17, y: -29}
+        - {x: 6, y: -40}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83dc91864214a242a38fa953c742755
+      internalID: 6652160498045382423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Pipes_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7dba3d9a1ca5840bf6ef5805cf096a
+      internalID: 8761443208028136891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Pipes_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba572af819424545899ee6dd374cd62
+      internalID: -8648440390296197166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMW Pipes_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbedd85fbc0a13f4dbd0fd18e21d0d4c
+      internalID: 3597857423023017646
       vertices: []
       indices: 
       edges: []

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class WeaponBehavior : MonoBehaviour
 {
-    [SerializeField] float _movementSpeed = 3f;
+    [SerializeField] float _movementSpeed = 2f;
     [SerializeField] List<string> canCollideWith;
     [SerializeField] RuntimeData _runtimeData;
     private Rigidbody2D rb;
@@ -42,10 +42,22 @@ public class WeaponBehavior : MonoBehaviour
         {
             Debug.Log("Collected by player");
             hasBeenCollected = true;
-            AudioManager.AudioInstance.PlaySound("Collect Weapon");
-            _runtimeData._currentWeapon = gameObject.GetComponent<SpriteRenderer>().sprite;
-            _runtimeData._hasWeapon = true;
-            Destroy(gameObject);
+            if(_runtimeData._hasWeapon)
+            {
+                _runtimeData._hasSecondary = true;
+                AudioManager.AudioInstance.PlaySound("Collect Same Weapon");
+                Destroy(gameObject);
+                _runtimeData._totalScore += 1000;
+            }
+            else
+            {
+                AudioManager.AudioInstance.PlaySound("Collect Weapon");
+                _runtimeData._currentWeapon = gameObject.GetComponent<SpriteRenderer>().sprite;
+                _runtimeData._hasWeapon = true;
+                Destroy(gameObject);
+                _runtimeData._totalScore += 2000;
+
+            }
         }
         else if(canCollideWith.Contains(collision.gameObject.tag))
         {

@@ -66,13 +66,16 @@
     <Compile Include="Assets\ScriptableObjects\MapLevelData.cs" />
     <Compile Include="Assets\ScriptableObjects\RuntimeData.cs" />
     <Compile Include="Assets\Scripts\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\BackgroundSongSelector.cs" />
     <Compile Include="Assets\Scripts\BlockBehavior.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
+    <Compile Include="Assets\Scripts\DeathMechanics.cs" />
     <Compile Include="Assets\Scripts\EndOfLevelTicker.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\HUDManager.cs" />
     <Compile Include="Assets\Scripts\LoadScenes.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\SpawnProjectiles.cs" />
     <Compile Include="Assets\Scripts\WeaponBehavior.cs" />
     <Compile Include="Assets\Scripts\World Map\ChooseLevel.cs" />
     <Compile Include="Assets\Scripts\World Map\WorldMapMovement.cs" />

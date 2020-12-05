@@ -32,12 +32,7 @@ public class Bullet : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag.Equals("Koopa"))
-        {
-            Destroy(collision.gameObject);
-            Destroy(gameObject);
-        }
-        else if (_destroysBullet.Contains(collision.gameObject.tag))
+        if (_destroysBullet.Contains(collision.gameObject.tag))
         {
             Destroy(gameObject);
             Debug.Log("TRIGGER DELETE");

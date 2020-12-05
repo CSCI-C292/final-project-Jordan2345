@@ -148,4 +148,5 @@ MonoBehaviour:
   - Ground
   - Pipes
   - Koopa
+  - Dragon
   _runtimeData: {fileID: 11400000, guid: 724e8c533b0c88140821a9f8894864f2, type: 2}

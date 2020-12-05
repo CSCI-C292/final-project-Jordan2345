@@ -47,4 +47,13 @@ public class ChooseLevel : MonoBehaviour
         }
         return "";
     }
+    public MapLevelData GetCurrentLevel(string levelName)
+    {
+        foreach(MapLevelData data in _levels)
+        {
+            if (data.name.Equals(levelName))
+                return data;
+        }
+        return null;
+    }
 }

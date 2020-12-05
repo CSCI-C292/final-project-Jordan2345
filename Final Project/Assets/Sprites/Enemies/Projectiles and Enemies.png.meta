@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: b0a415a31a7b32647a8bab855878936a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4107595623912578068
+    second: Projectiles and Enemies_14
+  - first:
+      213: 8760074982843091575
+    second: Projectiles and Enemies_15
+  - first:
+      213: -802602648921211226
+    second: Projectiles and Enemies_16
+  - first:
+      213: -2212057425092040669
+    second: Projectiles and Enemies_23
+  - first:
+      213: -1823781980317604799
+    second: Projectiles and Enemies_52
+  - first:
+      213: 8274137142940123464
+    second: Projectiles and Enemies_53
+  - first:
+      213: -1223596122536631060
+    second: Projectiles and Enemies_55
+  - first:
+      213: 7092469211913919521
+    second: Projectiles and Enemies_56
+  - first:
+      213: 4237918592110085831
+    second: Projectiles and Enemies_58
+  - first:
+      213: -8325484413016825488
+    second: Projectiles and Enemies_59
+  - first:
+      213: -937124829743222861
+    second: Projectiles and Enemies_67
+  - first:
+      213: -5804651700265600251
+    second: Projectiles and Enemies_68
+  - first:
+      213: -2011244882665150657
+    second: Projectiles and Enemies_69
+  - first:
+      213: 7892867387447412918
+    second: Projectiles and Enemies_84
+  - first:
+      213: -2249383932748533185
+    second: Projectiles and Enemies_86
+  - first:
+      213: -2052060122368603097
+    second: Projectiles and Enemies_115
+  - first:
+      213: 1346658009461871891
+    second: Projectiles and Enemies_116
+  - first:
+      213: -9207640436144628403
+    second: Projectiles and Enemies_118
+  - first:
+      213: -7587020500984212388
+    second: Projectiles and Enemies_120
+  - first:
+      213: -4996419374490319586
+    second: Projectiles and Enemies_121
+  - first:
+      213: 7577867618702871614
+    second: Projectiles and Enemies_122
+  - first:
+      213: 3475395564874136570
+    second: Projectiles and Enemies_123
+  - first:
+      213: 8557704876167295382
+    second: Projectiles and Enemies_124
+  - first:
+      213: -5311751304075968309
+    second: Projectiles and Enemies_126
+  - first:
+      213: -7236870144389632234
+    second: Projectiles and Enemies_127
+  - first:
+      213: 8439283958754565225
+    second: Projectiles and Enemies_128
+  - first:
+      213: -7154698546385234498
+    second: Projectiles and Enemies_129
+  - first:
+      213: 3844955577356870672
+    second: Projectiles and Enemies_131
+  - first:
+      213: -3447903963100402218
+    second: Projectiles and Enemies_133
+  - first:
+      213: 4647492423582580213
+    second: Projectiles and Enemies_134
+  - first:
+      213: -2031062137924791308
+    second: Projectiles and Enemies_168
+  - first:
+      213: -6723509072567993274
+    second: Projectiles and Enemies_169
+  - first:
+      213: 6607949986129340482
+    second: Projectiles and Enemies_171
+  - first:
+      213: 5318348798818290181
+    second: Projectiles and Enemies_172
+  - first:
+      213: -8196746141456693617
+    second: Projectiles and Enemies_173
+  - first:
+      213: 5769726691385976177
+    second: Projectiles and Enemies_193
+  - first:
+      213: -2589077027855093601
+    second: Projectiles and Enemies_194
+  - first:
+      213: 5893790256264610798
+    second: Projectiles and Enemies_199
+  - first:
+      213: -5474428419117374040
+    second: Projectiles and Enemies_200
+  - first:
+      213: 2612732872596869641
+    second: Projectiles and Enemies_201
+  - first:
+      213: 7013422146537607969
+    second: Projectiles and Enemies_202
+  - first:
+      213: -3907749354499548543
+    second: Projectiles and Enemies_203
+  - first:
+      213: -7609948425339505624
+    second: Projectiles and Enemies_204
+  - first:
+      213: -3793661039874726815
+    second: Projectiles and Enemies_205
+  - first:
+      213: 1777855843607781856
+    second: Projectiles and Enemies_206
+  - first:
+      213: -454863752266820719
+    second: Projectiles and Enemies_207
+  - first:
+      213: -1040090230733943411
+    second: Projectiles and Enemies_210
+  - first:
+      213: -5778534600806148275
+    second: Projectiles and Enemies_211
+  - first:
+      213: 6890088135999878075
+    second: Projectiles and Enemies_212
+  - first:
+      213: 6828550266493999818
+    second: Projectiles and Enemies_213
+  - first:
+      213: -6453664132404005897
+    second: Projectiles and Enemies_223
+  - first:
+      213: 8666448350912943787
+    second: Projectiles and Enemies_287
+  - first:
+      213: 482700095562226123
+    second: Projectiles and Enemies_288
+  - first:
+      213: -6343762400238404304
+    second: Projectiles and Enemies_289
+  - first:
+      213: -2236677969012337175
+    second: Projectiles and Enemies_290
+  - first:
+      213: -215035875427091226
+    second: Projectiles and Enemies_291
+  - first:
+      213: 8254095596289861759
+    second: Projectiles and Enemies_292
+  - first:
+      213: -6933119862434564756
+    second: Projectiles and Enemies_293
+  - first:
+      213: -426270572756222188
+    second: Projectiles and Enemies_294
+  - first:
+      213: 644106277460965098
+    second: Projectiles and Enemies_295
+  - first:
+      213: 8499647657609997407
+    second: Projectiles and Enemies_296
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Projectiles and Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 468
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227d2d7a7325cf47bc5ccdd4727abfb
+      internalID: -4107595623912578068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 467
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcce94a64daeb74ea3656b1476fb668
+      internalID: 8760074982843091575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 466
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13e808f23c2e8545ba18192797bac75
+      internalID: -802602648921211226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 467
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7967ff6eb40483e42af889b73fb3ad22
+      internalID: -2212057425092040669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 407
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0d87ce21806e64c977de92c2a23c02
+      internalID: -1823781980317604799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 407
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a559b722fbacfe14c8c53ae79807e080
+      internalID: 8274137142940123464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 412
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c5d14f085857a4691dc6545fee1a66
+      internalID: -1223596122536631060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 409
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabb7700b6e792e41a955c3b385f4100
+      internalID: 7092469211913919521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 412
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79f80a38a6e8c498133dabdc25e547
+      internalID: 4237918592110085831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 418
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d4acd7f4c28641a3902d18ea67e6b
+      internalID: -8325484413016825488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 344
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ebb8219f268264f866ab5aa0d2d767
+      internalID: -937124829743222861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 344
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc88e3712161ed3429be08f56b68626e
+      internalID: -5804651700265600251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 344
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b5d1a9cd827cf44a9ed6386c54d954
+      internalID: -2011244882665150657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77291bb3402ed546a8e7a31184df91b
+      internalID: 7892867387447412918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 352
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7636ad9ccd34cca43b43496a55c7cba3
+      internalID: -2249383932748533185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 303
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d60ff67401f3a4595128341ee9c8f6
+      internalID: -2052060122368603097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 302
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7bc5144e480a408a5aae2f490a176
+      internalID: 1346658009461871891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 296
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d99c2c59e13dd4ebc22edcf98d6454
+      internalID: -9207640436144628403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 303
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d0642278d3d5b4ca3d969ea2a42c8a
+      internalID: -7587020500984212388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111d3c0903d687e4083ab55d3be90cec
+      internalID: -4996419374490319586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e962b4288943eaf41a2dd28bea91b2f3
+      internalID: 7577867618702871614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 280
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d42cfa70b4cc84d9fd7cb9acb29441
+      internalID: 3475395564874136570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 280
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5be52fe98b63146b07c14f0cb4233b
+      internalID: 8557704876167295382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 275
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6c115714c977348a533bf252e23e3a
+      internalID: -5311751304075968309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 279
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc02097106c54499a638d8d14a5053
+      internalID: -7236870144389632234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 279
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa77f09006096643a013c946d4338bf
+      internalID: 8439283958754565225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 279
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99be7f56866ae141b12b10f69011635
+      internalID: -7154698546385234498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcf310d0c73abb4ea77323e5182f594
+      internalID: 3844955577356870672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 261
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdfbc60227de6b449de6ccbc49f63e8
+      internalID: -3447903963100402218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 261
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c948a35c561114b828976f03e8ef01
+      internalID: 4647492423582580213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 218
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d299f8f6960db40a083f8a36e2e537
+      internalID: -2031062137924791308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 218
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c927bae0135d96547b38974348aff88b
+      internalID: -6723509072567993274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 205
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79faccfcc8720749af3ed58207089f4
+      internalID: 6607949986129340482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 205
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91fc8f079f4ede42a56009520ff027e
+      internalID: 5318348798818290181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f691fbd4806494ea1b2907142dd682
+      internalID: -8196746141456693617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 92
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a894a9fc5be40ae4f88232f4a8c438a0
+      internalID: 5769726691385976177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b2d51db59a7de43b5d51de073804c2
+      internalID: -2589077027855093601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402494c3eebe4d64b813994157b41e64
+      internalID: 5893790256264610798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842053689b4790a4c949e4be58549659
+      internalID: -5474428419117374040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_201
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec53ebe979b85642a05937b0c877984
+      internalID: 2612732872596869641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_202
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a43b85aecc9b8840b3521d00a65dddc
+      internalID: 7013422146537607969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_203
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3835ee144daa3ce45b715c94661f8e8c
+      internalID: -3907749354499548543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_204
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b19067d094874ca6793413bf625f0
+      internalID: -7609948425339505624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_205
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573175682e9959f438caf22381949bca
+      internalID: -3793661039874726815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_206
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 128
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e399450ffe864348933426d9e7688b7
+      internalID: 1777855843607781856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_207
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8ec51461b5d64cad0c59bfdb9af76
+      internalID: -454863752266820719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_210
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 121
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cea70bcd909dd04c861716667a382fe
+      internalID: -1040090230733943411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_211
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e2b29fb7d81ae4caa02696e9184d0b
+      internalID: -5778534600806148275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_212
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e25624899f09a44ea6575249b43726b
+      internalID: 6890088135999878075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_213
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a32c01bb8dba948a873d76a142b264
+      internalID: 6828550266493999818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_223
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 91
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac6d6460640673449d69b30136eb8d6
+      internalID: -6453664132404005897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_287
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2136751c85de944a531c866aac665f
+      internalID: 8666448350912943787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_288
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f81295f7a3bee847aecbfb96ccbbd7a
+      internalID: 482700095562226123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_289
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966583f18b5d4241a065737843e6b45
+      internalID: -6343762400238404304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_290
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd024e9bf2a66458dab0ac0b44e6b8
+      internalID: -2236677969012337175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_291
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea336206f08fde41a4863db26912691
+      internalID: -215035875427091226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_292
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c608d517906514eac3bc1f411598eb
+      internalID: 8254095596289861759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_293
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab731c69dd42dd547b40839f57100a57
+      internalID: -6933119862434564756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_294
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 23
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7f8f0adfcbc541b606f1a0e428bd8
+      internalID: -426270572756222188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_295
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 44
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867c19348a7fb8e4bb64bc4056e0c0f7
+      internalID: 644106277460965098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectiles and Enemies_296
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 399
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c4143163877834fb3af58142c6287b
+      internalID: 8499647657609997407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

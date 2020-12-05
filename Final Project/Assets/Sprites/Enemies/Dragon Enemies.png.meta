@@ -1,0 +1,1615 @@
+fileFormatVersion: 2
+guid: 8cacd461ae54a7544bab38d5a65a5897
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8070953423018978705
+    second: Dragon Enemies_18
+  - first:
+      213: -6388520322416969760
+    second: Dragon Enemies_19
+  - first:
+      213: 2531833133194721385
+    second: Dragon Enemies_20
+  - first:
+      213: 743089615467015456
+    second: Dragon Enemies_21
+  - first:
+      213: -191991507703697917
+    second: Dragon Enemies_22
+  - first:
+      213: -5733600551108494534
+    second: Dragon Enemies_23
+  - first:
+      213: 1906567874803579735
+    second: Dragon Enemies_24
+  - first:
+      213: 6202341878957165040
+    second: Dragon Enemies_26
+  - first:
+      213: -2657516070644128915
+    second: Dragon Enemies_27
+  - first:
+      213: -7379627211297280059
+    second: Dragon Enemies_28
+  - first:
+      213: 6711332588169178784
+    second: Dragon Enemies_29
+  - first:
+      213: 8602804816994378953
+    second: Dragon Enemies_30
+  - first:
+      213: -6723402580848763998
+    second: Dragon Enemies_31
+  - first:
+      213: 4468094660504647601
+    second: Dragon Enemies_32
+  - first:
+      213: 7871271514440294455
+    second: Dragon Enemies_33
+  - first:
+      213: -4397468376900983733
+    second: Dragon Enemies_34
+  - first:
+      213: 5085000829604139480
+    second: Dragon Enemies_35
+  - first:
+      213: 633101933945127079
+    second: Dragon Enemies_48
+  - first:
+      213: 3248277914067563616
+    second: Dragon Enemies_55
+  - first:
+      213: 2674756341708674738
+    second: Dragon Enemies_56
+  - first:
+      213: 3435657946951810603
+    second: Dragon Enemies_57
+  - first:
+      213: 6461921130019857741
+    second: Dragon Enemies_58
+  - first:
+      213: 8490356975827886882
+    second: Dragon Enemies_59
+  - first:
+      213: -4130156629791332936
+    second: Dragon Enemies_60
+  - first:
+      213: -2061058463098070234
+    second: Dragon Enemies_61
+  - first:
+      213: 5027254040921560134
+    second: Dragon Enemies_72
+  - first:
+      213: 7561706749378713663
+    second: Dragon Enemies_73
+  - first:
+      213: 3019097151115176475
+    second: Dragon Enemies_74
+  - first:
+      213: 7257930180506837638
+    second: Dragon Enemies_75
+  - first:
+      213: 1106100516052782454
+    second: Dragon Enemies_76
+  - first:
+      213: -1683559070209840765
+    second: Dragon Enemies_77
+  - first:
+      213: 5115145941459655556
+    second: Dragon Enemies_78
+  - first:
+      213: -423642174995490777
+    second: Dragon Enemies_79
+  - first:
+      213: 2261092940906746601
+    second: Dragon Enemies_80
+  - first:
+      213: 2572845161915002440
+    second: Dragon Enemies_81
+  - first:
+      213: 8832793441191598911
+    second: Dragon Enemies_82
+  - first:
+      213: 7176605396790797049
+    second: Dragon Enemies_83
+  - first:
+      213: 6587047157427801060
+    second: Dragon Enemies_84
+  - first:
+      213: 7423805552845963639
+    second: Dragon Enemies_87
+  - first:
+      213: 6444948764873648916
+    second: Dragon Enemies_88
+  - first:
+      213: -5325421808223403776
+    second: Dragon Enemies_89
+  - first:
+      213: 5181690786323315286
+    second: Dragon Enemies_90
+  - first:
+      213: -5678388725504664319
+    second: Dragon Enemies_91
+  - first:
+      213: -4985222352269354670
+    second: Dragon Enemies_93
+  - first:
+      213: 95349186061062092
+    second: Dragon Enemies_94
+  - first:
+      213: -1911032159058013090
+    second: Dragon Enemies_95
+  - first:
+      213: 1033107222548676647
+    second: Dragon Enemies_96
+  - first:
+      213: 4448611668363810441
+    second: Dragon Enemies_97
+  - first:
+      213: -698010457870394932
+    second: Dragon Enemies_98
+  - first:
+      213: -3154954908140738513
+    second: Dragon Enemies_99
+  - first:
+      213: 4585881770009701687
+    second: Dragon Enemies_100
+  - first:
+      213: 3227622495402739378
+    second: Dragon Enemies_101
+  - first:
+      213: 8494514112037894945
+    second: Dragon Enemies_102
+  - first:
+      213: -1830644425216001833
+    second: Dragon Enemies_103
+  - first:
+      213: -8638807588317489974
+    second: Dragon Enemies_104
+  - first:
+      213: 589406179716084854
+    second: Dragon Enemies_105
+  - first:
+      213: 6236356425174412985
+    second: Dragon Enemies_106
+  - first:
+      213: 8563171638426539224
+    second: Dragon Enemies_107
+  - first:
+      213: 4371112805206628604
+    second: Dragon Enemies_108
+  - first:
+      213: -7906543973629141179
+    second: Dragon Enemies_109
+  - first:
+      213: 6540282623741968670
+    second: Dragon Enemies_110
+  - first:
+      213: -7584058341417426598
+    second: Dragon Enemies_111
+  - first:
+      213: 9021496423685327612
+    second: Dragon Enemies_112
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 176
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa07c7d608b4a43bb20c672642f08a
+      internalID: -8070953423018978705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 176
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8555ed52db1ee4d99414b045394a8d
+      internalID: -6388520322416969760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 176
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb24e7d4e769b2448ee79c2b9c3994d
+      internalID: 2531833133194721385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cfebf5153ce81419260e0ef358a3bb
+      internalID: 743089615467015456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdcd7655d2e7f149b9c78b8db9ba099
+      internalID: -191991507703697917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 176
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba40fb4d21ce3c4ab9d8ef7e1a21d7b
+      internalID: -5733600551108494534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 176
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7effcc20a4953a74ea6c5cade8fc3a36
+      internalID: 1906567874803579735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 176
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380b6c807ad7d2c4698d73b910b7fb06
+      internalID: 6202341878957165040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 176
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e56ccbe2165294aa176aa8167c0b2a
+      internalID: -2657516070644128915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96403f79d4e51d443aca6fa39e110a1f
+      internalID: -7379627211297280059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 176
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d463e12480ca904fad3ef2026cf4876
+      internalID: 6711332588169178784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 176
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7056489b0bc4b684fb31b00d8da3d711
+      internalID: 8602804816994378953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 176
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b848583b9cd326438bdba5611c8d4a1
+      internalID: -6723402580848763998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a0d015d54a32c478b21b7134eea012
+      internalID: 4468094660504647601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164e3318a8acbf4eae99e7f1e641042
+      internalID: 7871271514440294455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce052fa98a39642a345084c13ffb96
+      internalID: -4397468376900983733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc40917f0fd6da49b8a2b75923004b3
+      internalID: 5085000829604139480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 144
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef78db764ffa9439466c3056259ad1
+      internalID: 633101933945127079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 121
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d836ba30aec447e428ee8b49c749f8a2
+      internalID: 3248277914067563616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 121
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce92f236bfbcd145ae6a82e1023639d
+      internalID: 2674756341708674738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 120
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb156c5f67201542a37dd94b8b0e79d
+      internalID: 3435657946951810603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 120
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe32898b6318540ab823adb12ebe7b
+      internalID: 6461921130019857741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 89
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c792668ff68ff7479b8157f4eacc165
+      internalID: 8490356975827886882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 89
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0d675f013f4a94581f41c3676d52c0
+      internalID: -4130156629791332936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 89
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1fb08df74472a40bfe01599e83e121
+      internalID: -2061058463098070234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 89
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab90d7a405b8f74c8c0c7e684b884ee
+      internalID: 5027254040921560134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 89
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0961223afe434740b5198f10d780cfb
+      internalID: 7561706749378713663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 89
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b21d2b8a8e7104797f1d5cb61119dc
+      internalID: 3019097151115176475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 89
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2e62e6508c0f4384726ec784d07e5
+      internalID: 7257930180506837638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 107
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2f611ac6820db448333e2e9aa7c410
+      internalID: 1106100516052782454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 107
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c600b49afc9e5e74d8537623baa4639d
+      internalID: -1683559070209840765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 107
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd346698f6713544fb5b24d298620f18
+      internalID: 5115145941459655556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c5d3ed70741d94298dacba33775eae
+      internalID: -423642174995490777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 89
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2384573ad3284499219925e830075
+      internalID: 2261092940906746601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 88
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3218bc0a3a2b04183ed24b1fabcc4c
+      internalID: 2572845161915002440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 88
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd62ee8b43f984aa932188e435483b
+      internalID: 8832793441191598911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 88
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829401a88a06dd4680b61b6d78fde03
+      internalID: 7176605396790797049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 89
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c95214943f894391171bbad3d7a1c
+      internalID: 6587047157427801060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 60
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b56891e703fad4998903244005aed9
+      internalID: 7423805552845963639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 59
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eec15ccafcba674e875eb1e00a11859
+      internalID: 6444948764873648916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 59
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e06bfde5bcf234ba7ab347b6f225e0
+      internalID: -5325421808223403776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca98e64e215ea54aa0cfbd467a49876
+      internalID: 5181690786323315286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 25
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9525bfef501b1468448d58778364b5
+      internalID: -5678388725504664319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 61
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386d22856b01158459e4396712e64323
+      internalID: -4985222352269354670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 57
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0802a31248dd60c4d8442b5164879a2c
+      internalID: 95349186061062092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 57
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24edc464f3cbcca49a6dd9aab3272de6
+      internalID: -1911032159058013090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 25
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16697fe6979ade841a0c63ef9411e70a
+      internalID: 1033107222548676647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 25
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2186360d4d8b4fa65979e7f06cff2
+      internalID: 4448611668363810441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 25
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994abc1952fa5594486e37c769e682be
+      internalID: -698010457870394932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4ac9a1445f4714d80cc0c22f6fa689
+      internalID: -3154954908140738513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 25
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf05b93bfc90504e9cadbb2a3a226e1
+      internalID: 4585881770009701687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 25
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2437a0a9bbf3f6449a13017cb75a25e5
+      internalID: 3227622495402739378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 45
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1edfaf6dc7b1d47a36dd08e30408ff
+      internalID: 8494514112037894945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 43
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534dc3186663f414c8bbe6dbd0b045bb
+      internalID: -1830644425216001833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 43
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da8873105d5aef40b3221c1ff367a6f
+      internalID: -8638807588317489974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 41
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b4a055d176c584d86625d5b2e81bf1
+      internalID: 589406179716084854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fc6e05cde543e408275fe81624bdcd
+      internalID: 6236356425174412985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c223815b1ce1db54d88cf491a59b93b3
+      internalID: 8563171638426539224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 27
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd7603ada9b85d49ba3782e0f3043e5
+      internalID: 4371112805206628604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 27
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d49a2151ec0d064eb396d53573d3fe8
+      internalID: -7906543973629141179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 25
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6f53d4de4c7f4fb3f1e1249e55113
+      internalID: 6540282623741968670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 25
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239e41d143c541148859386106392db8
+      internalID: -7584058341417426598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 25
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4b1eeb929fda41b9fb892185cc974
+      internalID: 9021496423685327612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

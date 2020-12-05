@@ -12,7 +12,9 @@ public class RuntimeData : ScriptableObject
     public int _gateScore;
     public bool _hasWeapon;
     public bool _isGunFlipped;
+    public bool _hasSecondary;
     public string _currentLevel;
     public Sprite _currentWeapon;
+    public MapLevelData _currentLevelData;
 
 }

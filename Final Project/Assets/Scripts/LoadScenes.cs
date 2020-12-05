@@ -10,10 +10,8 @@ public class LoadScenes : MonoBehaviour
     private void Awake()
     {
         SceneInstance = this;
-        _runtimeData._timeLeft = 400;
-        _runtimeData._totalScore = 0;
+        _runtimeData._timeLeft = 300;
         _runtimeData._totalDragonCoins = 0;
-        _runtimeData._hasWeapon = false;
         flag = false;
     }
     private void Start()

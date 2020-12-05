@@ -6,4 +6,5 @@ using UnityEngine;
 public class MapLevelData : ScriptableObject
 {
     public string left, right, up, down;
+    public int currentWorld;
 }

@@ -16,3 +16,4 @@ MonoBehaviour:
   right: Yoshi's Island 4
   up: 
   down: Yoshi's Island 2
+  currentWorld: 1

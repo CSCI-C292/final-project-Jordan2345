@@ -16,3 +16,4 @@ MonoBehaviour:
   right: 
   up: 
   down: Yoshi's Island 3
+  currentWorld: 1

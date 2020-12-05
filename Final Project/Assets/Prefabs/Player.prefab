@@ -190,6 +190,7 @@ MonoBehaviour:
   - Koopa
   - Coin Block
   - Turn Block
+  - Powerup Block
   _bullet: {fileID: 838761854836797674, guid: f0f5ce74a00b087488e16b35cfe0d1f4, type: 3}
 --- !u!50 &2577526379416214969
 Rigidbody2D:

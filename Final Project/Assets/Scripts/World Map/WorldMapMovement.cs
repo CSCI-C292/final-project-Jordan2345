@@ -23,6 +23,7 @@ public class WorldMapMovement : MonoBehaviour
         gameObject.transform.position = FindWaypoint(currentLevel);
 
         _runtimeData._currentLevel = currentLevel;
+        _runtimeData._currentLevelData = ChooseLevel.ChooseLevelInstance.GetCurrentLevel(currentLevel);
         Debug.Log(waypoints[0].name);
         AudioManager.AudioInstance.PlaySound("Yoshi's Island Music");
     }
@@ -83,6 +84,7 @@ public class WorldMapMovement : MonoBehaviour
                 flag = false;
                 animator.SetBool(currAnim, false);
                 _runtimeData._currentLevel = currentLevel;
+                _runtimeData._currentLevelData = ChooseLevel.ChooseLevelInstance.GetCurrentLevel(currentLevel);
                 AudioManager.AudioInstance.PlaySound("Select Level");
             }
         }

@@ -12,14 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c66bdb4c0f0743a43953bf1d03addd71, type: 3}
   m_Name: RuntimeData
   m_EditorClassIdentifier: 
-  _totalCoins: 38
-  _totalDragonCoins: 5
-  _totalLives: 6
-  _timeLeft: 366
-  _totalScore: 5140
-  _gateScore: 69
-  _hasWeapon: 0
+  _totalCoins: 79
+  _totalDragonCoins: 3
+  _totalLives: 15
+  _timeLeft: 373
+  _totalScore: 3070
+  _gateScore: 66
+  _hasWeapon: 1
   _isGunFlipped: 1
-  _currentLevel: Yoshi's Island Home
+  _currentLevel: Yoshi's Island 2
   _currentWeapon: {fileID: -5528894423819592419, guid: 4ed65f54f9552fe41ba5e75fd5e94e93,
     type: 3}
+  _currentLevelData: {fileID: 11400000, guid: d205d7bbaeb1c0a438f2364dc98978df, type: 2}

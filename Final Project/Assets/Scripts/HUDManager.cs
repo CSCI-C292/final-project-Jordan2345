@@ -12,7 +12,7 @@ public class HUDManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI _scoreText;
     [SerializeField] TextMeshProUGUI _gateScoreText;
     [SerializeField] List<GameObject> _dragonCoins;
-
+    [SerializeField] Image _powerupImage;
     // Update is called once per frame
     void FixedUpdate()
     {
@@ -24,6 +24,7 @@ public class HUDManager : MonoBehaviour
         CheckTotalCoins();
         CheckGateScore();
         CheckDragonCoins();
+        CheckSecondaryPowerup();
         UpdateText();
     }
     private void CheckTime()
@@ -70,6 +71,13 @@ public class HUDManager : MonoBehaviour
                     _dragonCoins[i].GetComponent<Image>().enabled = false;
             }
         }
+    }
+    private void CheckSecondaryPowerup()
+    {
+        if (_runtimeData._hasSecondary)
+            _powerupImage.enabled = true;
+        else
+            _powerupImage.enabled = false;
     }
     private void UpdateText()
     {
