@@ -76,6 +76,8 @@
     <Compile Include="Assets\Scripts\LoadScenes.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\SpawnProjectiles.cs" />
+    <Compile Include="Assets\Scripts\SpecialExitLevel.cs" />
+    <Compile Include="Assets\Scripts\Title Screen\TitleScreenManager.cs" />
     <Compile Include="Assets\Scripts\WeaponBehavior.cs" />
     <Compile Include="Assets\Scripts\World Map\ChooseLevel.cs" />
     <Compile Include="Assets\Scripts\World Map\WorldMapMovement.cs" />

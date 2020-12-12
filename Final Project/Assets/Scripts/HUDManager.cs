@@ -30,7 +30,10 @@ public class HUDManager : MonoBehaviour
     private void CheckTime()
     {
         if (_runtimeData._timeLeft == 0)
+        {
             Debug.Log("GAME OVER");
+            DeathMechanics.DeathMechanicsInstance.CheckDeath();
+        }
     }
     private void CheckTotalCoins()
     {

@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: dc43abe047f804f469f24a0ec848c174
+  - enabled: 1
+    path: Assets/Scenes/Intro Level.unity
+    guid: 1f4ffee5a5cb0ac4081924460f7749c7
+  - enabled: 1
     path: Assets/Scenes/World Map.unity
     guid: 2670012ac769cbe4f916fe5ea726275b
+  - enabled: 1
+    path: Assets/Scenes/Yoshi's Island Home.unity
+    guid: fe6116718f0628e409ba189a2442af88
   - enabled: 1
     path: Assets/Scenes/Yoshi's Island 1.unity
     guid: 560227b86c5cb6347ae97b5563aca6c2

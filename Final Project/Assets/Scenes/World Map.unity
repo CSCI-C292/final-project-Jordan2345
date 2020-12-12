@@ -445,7 +445,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -22, y: -83}
+  m_AnchoredPosition: {x: -22, y: -74.8}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &380098825
@@ -468,8 +468,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Yoshi's Island 2
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 490e629847ad42d4c99b46a0751228d9, type: 2}
-  m_sharedMaterial: {fileID: 1789090533725313520, guid: 490e629847ad42d4c99b46a0751228d9,
+  m_fontAsset: {fileID: 11400000, guid: cd17285b769e0c04a9d64cd36497f579, type: 2}
+  m_sharedMaterial: {fileID: 1244090530284424666, guid: cd17285b769e0c04a9d64cd36497f579,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -543,7 +543,7 @@ MonoBehaviour:
     linkCount: 0
     lineCount: 1
     pageCount: 1
-    materialCount: 2
+    materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_spriteAnimator: {fileID: 0}

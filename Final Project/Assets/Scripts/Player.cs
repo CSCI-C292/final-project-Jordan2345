@@ -33,22 +33,28 @@ public class Player : MonoBehaviour
     {
         animator.SetBool("hasWon", false);
         sceneName = LoadScenes.SceneInstance.getSceneName();
-        AudioManager.AudioInstance.PlaySound(sceneName);
+        if(!sceneName.Equals("Title Screen"))
+            AudioManager.AudioInstance.PlaySound(sceneName);
     }
     // Update is called once per frame
     void Update()
     {
-        if(!hasLevelEnded)
+        if(!sceneName.Equals("Intro Level"))
         {
-            isGrounded();
-            if (canMove)
+            if (!hasLevelEnded)
             {
-                CheckJump();
-                CheckIfFalling();
-                CheckWeapon();
-                Movement();
+                isGrounded();
+                if (canMove)
+                {
+                    CheckJump();
+                    CheckDuck();
+                    CheckIfFalling();
+                    CheckWeapon();
+                    Movement();
+                }
             }
         }
+        
        
     }
     public void Movement()
@@ -79,12 +85,30 @@ public class Player : MonoBehaviour
             {
                 float extraBoost = isRunning ? .8f *_runningBoost + _jumpForce : _jumpForce;
                 rigidbody.velocity = Vector2.up * extraBoost;
-                AudioManager.AudioInstance.PlaySound("Jump");
+                if(!sceneName.Equals("Title Screen"))
+                    AudioManager.AudioInstance.PlaySound("Jump");
                 animator.SetBool("isJumping", true);
                 canJump = false;
             }
             
         }
+    }
+    private void CheckDuck()
+    {
+
+        if (Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S))
+        {
+            //duck
+            animator.SetBool("isDucking", true);
+            Debug.Log("Ducking");
+        }
+        else if(Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S))
+        {
+            Debug.Log("Released");
+            animator.SetBool("isDucking", false);
+        }
+         
+        
     }
     private void CheckIfFalling()
     {

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 9213643872026697231}
   - component: {fileID: 9213643872026697217}
   - component: {fileID: 9213643872026697216}
+  - component: {fileID: 5821998450012745370}
   m_Layer: 0
   m_Name: Red Fruit
   m_TagString: Fruit
@@ -70,7 +71,7 @@ SpriteRenderer:
   m_SortingLayerID: 2128439977
   m_SortingLayer: -1
   m_SortingOrder: 0
-  m_Sprite: {fileID: -7803440020141559257, guid: afec306c530702b419c6867a4746ca3b,
+  m_Sprite: {fileID: 1750628964342633471, guid: ea3a975b1e97d024ea1b42b2a3dbc2f9,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -99,7 +100,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.7619048, y: 0.71428573}
+    oldSize: {x: 0.875, y: 0.8125}
     newSize: {x: 1, y: 0.9375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -108,3 +109,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 0.9375}
   m_EdgeRadius: 0
+--- !u!95 &5821998450012745370
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9213643872026697230}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 074e8434d60e05a4580fda226502c56f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

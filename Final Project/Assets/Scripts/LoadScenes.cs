@@ -7,25 +7,35 @@ public class LoadScenes : MonoBehaviour
     [SerializeField] RuntimeData _runtimeData;
     public static LoadScenes SceneInstance;
     private bool flag = false;
+    private List<string> specialLevels;
     private void Awake()
     {
         SceneInstance = this;
         _runtimeData._timeLeft = 300;
         _runtimeData._totalDragonCoins = 0;
+        specialLevels = new List<string>(){ "World Map","Title Screen","Yoshi's Island Home","Intro Level"};
         flag = false;
     }
     private void Start()
     {
         Debug.Log("AT START");
-        if(!getSceneName().Equals("World Map"))
+        if(!specialLevels.Contains(getSceneName()))
         {
             Debug.Log("INVOKE");
             InvokeRepeating("StartTimer",1f,1f);            
         }
+        if (getSceneName().Equals("Intro Level"))
+            StartCoroutine("IntroLevelStart");
+    }
+    private IEnumerator IntroLevelStart()
+    {
+        AudioManager.AudioInstance.PlaySound("Intro Level");
+        yield return new WaitForSeconds(15);
+        LoadScene("World Map");
     }
     private void Update()
     {
-        if(!getSceneName().Equals("World Map"))
+        if(!specialLevels.Contains(getSceneName()))
         {
             if (LevelEnded() && !flag)
             {
