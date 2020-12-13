@@ -19,6 +19,7 @@ TagManager:
   - Bullet
   - Dragon
   - Bullet Bill
+  - P-Switch
   layers:
   - Default
   - TransparentFX

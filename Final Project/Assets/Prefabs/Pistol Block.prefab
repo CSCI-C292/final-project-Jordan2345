@@ -99,6 +99,9 @@ MonoBehaviour:
   _playerMask:
     serializedVersion: 2
     m_Bits: 4096
+  _foreground:
+    serializedVersion: 2
+    m_Bits: 256
   _numHits: 1
   _runtimeData: {fileID: 11400000, guid: 724e8c533b0c88140821a9f8894864f2, type: 2}
   _weaponType: {fileID: 6766255605382721716, guid: 30fae031144868e40b9e11a304f12c45,

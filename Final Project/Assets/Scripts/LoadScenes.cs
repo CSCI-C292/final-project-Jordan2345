@@ -13,7 +13,7 @@ public class LoadScenes : MonoBehaviour
         SceneInstance = this;
         _runtimeData._timeLeft = 300;
         _runtimeData._totalDragonCoins = 0;
-        specialLevels = new List<string>(){ "World Map","Title Screen","Yoshi's Island Home","Intro Level"};
+        specialLevels = new List<string>(){ "World Map","Title Screen","Yoshi's Island Home","Intro Level","Game Over Screen"};
         flag = false;
     }
     private void Start()

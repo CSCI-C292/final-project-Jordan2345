@@ -43,7 +43,10 @@ public class DeathMechanics : MonoBehaviour
         yield return new WaitForSeconds(3);
         _animator.SetBool("hasDied", false);
         player.GetComponent<CapsuleCollider2D>().enabled = true;
-        LoadScenes.SceneInstance.LoadScene("World Map");
+        if (_runtimeData._totalLives == 0)
+            LoadScenes.SceneInstance.LoadScene("Game Over Screen");
+        else
+            LoadScenes.SceneInstance.LoadScene("World Map");
     }
 
 }

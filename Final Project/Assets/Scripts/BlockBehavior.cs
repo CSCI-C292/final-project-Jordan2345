@@ -74,6 +74,44 @@ public class BlockBehavior : MonoBehaviour
         _numHits = 1;
 
     }
+    private void PSwitchCheck()
+    {
+        if(!flag && !animator.GetBool("hitSwitch"))
+        {
+            animator.SetBool("hitSwitch", true);
+            StartCoroutine(PSwitchTurn());
+        }
+        
+    }
+    private IEnumerator PSwitchTurn()
+    {
+        flag = true;
+        AudioManager.AudioInstance.StopSound();
+        AudioManager.AudioInstance.PlaySound("Hit P-Switch");
+        AudioManager.AudioInstance.PlaySound("P-Switch Theme");
+        GameObject[] allObjects = FindObjectsOfType<GameObject>();
+        List<GameObject> coins = new List<GameObject>();
+        foreach (GameObject obj in allObjects)
+        {
+            if (obj.tag.Equals("Coin"))
+            {
+                //add this game object to a list so when the p-switch timer runs out, we revert it back to coins
+                obj.GetComponent<Animator>().SetBool("coinSwitchHit", true);
+                obj.layer = LayerMask.NameToLayer("Foreground");
+                coins.Add(obj);
+            }
+        }
+        yield return new WaitForSeconds(15f);
+        //revert back to coins
+        foreach(GameObject obj in coins)
+        {
+            obj.GetComponent<Animator>().SetBool("coinSwitchHit", false);
+            obj.layer = LayerMask.NameToLayer("Collectables");
+        }
+        AudioManager.AudioInstance.PlaySound(LoadScenes.SceneInstance.getSceneName());
+        Destroy(gameObject);
+
+    }
     private bool isUnderBlock()
     {
         float padding = 2.5f;
@@ -86,6 +124,21 @@ public class BlockBehavior : MonoBehaviour
             ray = Color.red;
         Vector2 down = Vector2.down * collider2D.bounds.extents.y;
         down.y -= padding;
+        Debug.DrawRay(collider2D.bounds.center, down, ray);
+        return hit.collider != null;
+    }
+    private bool isAboveBlock()
+    {
+        float padding = 2.5f;
+        BoxCollider2D collider2D = GetComponent<BoxCollider2D>();
+        RaycastHit2D hit = Physics2D.Raycast(collider2D.bounds.center, Vector2.down, collider2D.bounds.extents.y - padding, _playerMask);
+        Color ray;
+        if (hit.collider != null)
+            ray = Color.green;
+        else
+            ray = Color.red;
+        Vector2 down = Vector2.down * collider2D.bounds.extents.y;
+        down.y += padding;
         Debug.DrawRay(collider2D.bounds.center, down, ray);
         return hit.collider != null;
     }
@@ -109,6 +162,11 @@ public class BlockBehavior : MonoBehaviour
             else if(gameObject.tag.Equals("Powerup Block") && isUnderBlock())
             {
                 PowerupBlockCheck();
+            }
+            else if(gameObject.tag.Equals("P-Switch") && isAboveBlock())
+            {
+                flag = false;
+                PSwitchCheck();
             }
         }
     }
