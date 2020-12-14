@@ -23955,7 +23955,7 @@ GameObject:
   - component: {fileID: 1152803015}
   - component: {fileID: 1152803017}
   - component: {fileID: 1152803016}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Background (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27062,7 +27062,7 @@ GameObject:
   - component: {fileID: 2136755740}
   - component: {fileID: 2136755742}
   - component: {fileID: 2136755741}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Background (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27948,11 +27948,6 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6112475080799872286, guid: ce060e36ec328324ea0115f1434c12ed,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6112475079299575625, guid: ce060e36ec328324ea0115f1434c12ed,
         type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -27962,6 +27957,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -668
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112475080799872286, guid: ce060e36ec328324ea0115f1434c12ed,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112475079299575626, guid: ce060e36ec328324ea0115f1434c12ed,
+        type: 3}
+      propertyPath: m_Layer
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 6112475079299575624, guid: ce060e36ec328324ea0115f1434c12ed,
         type: 3}

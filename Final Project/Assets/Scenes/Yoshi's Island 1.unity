@@ -20915,10 +20915,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -669.4
       objectReference: {fileID: 0}
-    - target: {fileID: 6812645344039377524, guid: ce060e36ec328324ea0115f1434c12ed,
+    - target: {fileID: 6112475079299575626, guid: ce060e36ec328324ea0115f1434c12ed,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 5814883901026082612, guid: ce060e36ec328324ea0115f1434c12ed,
         type: 3}
@@ -20929,6 +20929,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.y
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812645344039377524, guid: ce060e36ec328324ea0115f1434c12ed,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6112475079299575624, guid: ce060e36ec328324ea0115f1434c12ed,
         type: 3}
@@ -28346,7 +28351,7 @@ GameObject:
   - component: {fileID: 1318710790}
   - component: {fileID: 1318710792}
   - component: {fileID: 1318710791}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Background (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29333,7 +29338,7 @@ GameObject:
   - component: {fileID: 1766502887}
   - component: {fileID: 1766502889}
   - component: {fileID: 1766502888}
-  m_Layer: 8
+  m_Layer: 13
   m_Name: Background (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
